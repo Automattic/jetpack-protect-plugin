@@ -48,6 +48,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Changed connection screen to the one that does not require a product
+- Changed the method used to disconnect
 - Configure Sync to only what we need to sync
 - Janitorial: require a more recent version of WordPress now that WP 6.0 is coming out.
 - JS Components: Add subTitle prop to ProductOffer component

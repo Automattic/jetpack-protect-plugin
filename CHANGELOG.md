@@ -53,6 +53,7 @@ This is an alpha version! The changes listed here are not final.
 - Configure Sync to only what we need to sync
 - Janitorial: require a more recent version of WordPress now that WP 6.0 is coming out.
 - JS Components: Add subTitle prop to ProductOffer component
+- JS Components: iterate over Dialog component
 - Protect: Add empty state for no vuls
 - Protect: Add popover at Badge
 - Protect: clean connection data. Update to latest connection API

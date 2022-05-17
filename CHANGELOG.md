@@ -65,6 +65,7 @@ This is an alpha version! The changes listed here are not final.
 - Protect: Update Navigation to be external controlled
 - Protect: update Protect icon
 - Protect: Update VulnerabilitiesList to remove severity and add fixed in
+- Protect: use data provided by My Jetpack to render Product offer
 - Protect: use weight Button prop to style the "learn more" footer link
 - Remove use of `pnpx` in preparation for pnpm 7.0.
 - require only site level connection

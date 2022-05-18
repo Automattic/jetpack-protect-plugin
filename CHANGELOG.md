@@ -33,6 +33,7 @@ This is an alpha version! The changes listed here are not final.
 - Protect: Add first approach of Interstitial page
 - Protect: Add Jetpack Scan to promotion section when site doesn't have Security bundle
 - Protect: Add missing prop-types module dependency
+- Protect: Add Navigation dropdown mode and use it for small/medium screens
 - Protect: add ProductOffer component
 - Protect: Add product offer component
 - Protect: Add title and redirect for vul at wpscan

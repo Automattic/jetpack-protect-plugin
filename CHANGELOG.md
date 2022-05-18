@@ -58,6 +58,7 @@ This is an alpha version! The changes listed here are not final.
 - Protect: Add empty state for no vuls
 - Protect: Add popover at Badge
 - Protect: clean connection data. Update to latest connection API
+- Protect: improve Dialog layout in medium viewport size
 - Protect: Move VulnerabilitiesList to section hero
 - Protect: New VulsList
 - Protect: Redesign Summary component

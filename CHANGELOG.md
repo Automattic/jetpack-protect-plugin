@@ -63,6 +63,7 @@ This is an alpha version! The changes listed here are not final.
 - Protect: Redesign Summary component
 - Protect: Truncate items at NavigationGroup
 - Protect: tweak footer
+- Protect: Update Footer and VulsList for small/medium viewport
 - Protect: Update Navigation to be external controlled
 - Protect: update Protect icon
 - Protect: Update VulnerabilitiesList to remove severity and add fixed in

@@ -17,6 +17,7 @@ This is an alpha version! The changes listed here are not final.
 - add get themes to synced callables in Protect
 - Add installedThemes to the initial state
 - Add notifications to the menu item and the admin bar
+- Add status polling to the Protect admin page.
 - Creates Status Class
 - Empty state screen
 - Expose and use IconsCard component

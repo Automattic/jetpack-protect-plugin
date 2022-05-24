@@ -65,6 +65,7 @@ This is an alpha version! The changes listed here are not final.
 - Protect: Move VulnerabilitiesList to section hero
 - Protect: New VulsList
 - Protect: Redesign Summary component
+- Protect: re implement Admin page by using Dialog component
 - Protect: Truncate items at NavigationGroup
 - Protect: tweak footer
 - Protect: Update Footer and VulsList for small/medium viewport

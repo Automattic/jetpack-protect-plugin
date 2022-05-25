@@ -76,6 +76,7 @@ This is an alpha version! The changes listed here are not final.
 - Protect: use data provided by My Jetpack to render Product offer
 - Protect: use weight Button prop to style the "learn more" footer link
 - Remove use of `pnpx` in preparation for pnpm 7.0.
+- Replace deprecated external-link variation by using isExternalLink prop
 - require only site level connection
 - Updated package dependencies
 - Updated package dependencies.

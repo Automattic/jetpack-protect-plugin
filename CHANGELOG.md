@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Add Alert icon to the error admin page
 - Add checks to the Site Health page
 - Add custom hook to handle viewport sizes via CSS
+- Added Social card to My Jetpack.
 - Added the list of installed pĺugins to the initial state
 - add get themes to synced callables in Protect
 - Add installedThemes to the initial state

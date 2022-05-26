@@ -90,6 +90,7 @@ This is an alpha version! The changes listed here are not final.
 - Removed Full Sync from loaded modules as Full Sync Immediately is present by default now
 
 ### Fixed
+- Adjust spacing and overflow properties of the navigation labels to improve display of long names.
 - Fix Connectino initialization
 - Protect: Fix Fatal when checking whether site site has vuls
 - Protect: fix right margin in primary layout

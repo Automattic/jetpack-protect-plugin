@@ -83,6 +83,7 @@ This is an alpha version! The changes listed here are not final.
 - Updated package dependencies
 - Updated package dependencies.
 - Update package.json metadata.
+- Updates CTA wording to reduce confusion when user already has Jetpack Security Bundle which includes Jetpack Scan
 - Update the Status when connection is established
 - Use a different copy when there are no found vulnerabilities but there are still some unchecked items
 

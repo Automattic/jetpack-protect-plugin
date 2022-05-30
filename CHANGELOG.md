@@ -82,7 +82,6 @@ This is an alpha version! The changes listed here are not final.
 - Remove use of `pnpx` in preparation for pnpm 7.0.
 - Replace deprecated external-link variation by using isExternalLink prop
 - require only site level connection
-- Updated package dependencies
 - Updated package dependencies.
 - Update package.json metadata.
 - Updates CTA wording to reduce confusion when user already has Jetpack Security Bundle which includes Jetpack Scan

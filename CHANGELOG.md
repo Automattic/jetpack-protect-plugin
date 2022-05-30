@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 This is an alpha version! The changes listed here are not final.
 
 ### Added
+- Add additional tracking events
 - Add Alert icon to the error admin page
 - Add checks to the Site Health page
 - Add custom hook to handle viewport sizes via CSS

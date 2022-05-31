@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 - Add Alert icon to the error admin page
 - Add checks to the Site Health page
 - Add custom hook to handle viewport sizes via CSS
+- Added details to the FAQ question on how Jetpack Protect is different from other Jetpack products.
 - Added Jetpack Protect readme file for the plugin listing.
 - Added option to display terms of service below product activation button.
 - Added Social card to My Jetpack.

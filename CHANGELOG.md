@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Renaming master to trunk.
+- Renaming `master` references to `trunk`
 - Reorder JS imports for `import/order` eslint rule.
 
 ## 1.0.0 - 2022-05-31

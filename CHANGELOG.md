@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Added new two FAQ entries
 
 ### Changed
+- Renaming master to trunk.
 - Reorder JS imports for `import/order` eslint rule.
 
 ## 1.0.0 - 2022-05-31

@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Added new two FAQ entries
+- Protect: record even just after the site is registered
 
 ### Changed
 - Renaming master to trunk.

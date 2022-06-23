@@ -18,6 +18,9 @@ This is an alpha version! The changes listed here are not final.
 - Renaming `master` references to `trunk`
 - Reorder JS imports for `import/order` eslint rule.
 
+### Fixed
+- Fixed recommendation for plugins that don't have a fix yet
+
 ## 1.0.0 - 2022-05-31
 ### Added
 - Add additional tracking events

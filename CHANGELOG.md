@@ -21,6 +21,7 @@ This is an alpha version! The changes listed here are not final.
 ### Fixed
 - Fixed bug that would not display Core vulnerabilities, remove legacy code and documentation and add new docs on the debug helper plugin.
 - Fixed recommendation for plugins that don't have a fix yet
+- Protect: Fix visual issue of the Interstitial page
 
 ## 1.0.0 - 2022-05-31
 ### Added

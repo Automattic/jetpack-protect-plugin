@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 - Protect: record even just after the site is registered
 
 ### Changed
+- Moved normalization of the Protect status report data to the server side.
 - Renaming master to trunk.
 - Renaming `master` references to `trunk`
 - Reorder JS imports for `import/order` eslint rule.

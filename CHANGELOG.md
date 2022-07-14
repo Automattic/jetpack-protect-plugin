@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Updated package dependencies.
 
+### Fixed
+- Fix protect admin toolbar icon display when Jetpack enabled and connected
+
 ## 1.0.1 - 2022-07-07
 ### Added
 - Added two new FAQ entries

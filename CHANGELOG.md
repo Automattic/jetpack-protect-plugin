@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Fix protect admin toolbar icon display when Jetpack enabled and connected
+- Minor bug fix - added isset() checks for report data properties
 
 ## 1.0.1 - 2022-07-07
 ### Added

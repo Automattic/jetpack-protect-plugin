@@ -15,6 +15,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - General: start new release cycle.
 
+### Fixed
+- Fixed alignment of long navigation item labels on mobile screen sizes.
+
 ## 1.0.2 - 2022-07-27
 ### Changed
 - Updated package dependencies.

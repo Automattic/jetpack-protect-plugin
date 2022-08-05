@@ -12,6 +12,7 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Added a default 'See all results' label to the mobile navigation button.
 - Added a spinner to the in progress scan page in admin
+- Added threat descriptions.
 
 ### Changed
 - General: start new release cycle.

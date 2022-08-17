@@ -15,6 +15,7 @@ This is an alpha version! The changes listed here are not final.
 - Added threat descriptions.
 
 ### Changed
+- Add condition to check plugin activation context before redirecting
 - General: start new release cycle.
 
 ### Fixed

@@ -15,6 +15,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Updated package dependencies.
 
+### Fixed
+- Adjusted alignment of spinner icon and loading text.
+
 ## 1.0.4 - 2022-08-29
 ### Fixed
 - Fixed NaN error that prevented the pricing interstitial from rendering.

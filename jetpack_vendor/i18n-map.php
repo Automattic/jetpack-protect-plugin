@@ -48,5 +48,9 @@ return array(
       'path' => 'jetpack_vendor/automattic/jetpack-sync',
       'ver' => '1.38.9999999-dev',
     ),
+    'jetpack-transport-helper' => array(
+      'path' => 'jetpack_vendor/automattic/jetpack-transport-helper',
+      'ver' => '0.1.9999999-dev',
+    ),
   ),
 );

@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Adds ability to autotag, autorelease and autopublish releases
+- Add transport-helper package dependency
 - new cycle
 
 ### Changed

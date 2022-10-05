@@ -38,6 +38,18 @@ return array(
 		'version' => 'dev-trunk',
 		'path'    => $baseDir . '/src/class-status.php'
 	),
+	'Automattic\\Jetpack\\Transport_Helper\\REST_Controller' => array(
+		'version' => '0.1.9999999.9999999-dev',
+		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-transport-helper/src/class-rest-controller.php'
+	),
+	'Automattic\\Jetpack\\Transport_Helper\\Helper_Script_Manager' => array(
+		'version' => '0.1.9999999.9999999-dev',
+		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-transport-helper/src/class-helper-script-manager.php'
+	),
+	'Automattic\\Jetpack\\Transport_Helper\\Package_Version' => array(
+		'version' => '0.1.9999999.9999999-dev',
+		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-transport-helper/src/class-package-version.php'
+	),
 	'Automattic\\Jetpack\\Sync\\JSON_Deflate_Array_Codec' => array(
 		'version' => '1.38.9999999.9999999-dev',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-sync/src/class-json-deflate-array-codec.php'

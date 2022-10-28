@@ -16,6 +16,7 @@ This is an alpha version! The changes listed here are not final.
 - new cycle
 
 ### Changed
+- Compatibility: WordPress 6.1 compatibility
 - Updated package dependencies.
 
 ### Fixed

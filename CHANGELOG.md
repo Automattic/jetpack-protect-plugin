@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Add connection error notice to the plugin.
+- Added features for paid Jetpack Scan users; including manual scans, the ability to ignore threats, and magical auto-fixers.
 - Adds ability to autotag, autorelease and autopublish releases
 - Add transport-helper package dependency
 - new cycle

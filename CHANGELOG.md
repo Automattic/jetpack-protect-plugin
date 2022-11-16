@@ -22,6 +22,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Adjusted alignment of spinner icon and loading text.
+- Fixed pricing table rendering when no introductory offer is present
 
 ## 1.0.4 - 2022-08-29
 ### Fixed

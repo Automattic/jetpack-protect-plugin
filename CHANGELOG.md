@@ -26,6 +26,7 @@ This is an alpha version! The changes listed here are not final.
 - Fixed pricing table rendering when no introductory offer is present
 - Fixed refresh of status after triggering a manual scan.
 - Fixed status checking
+- Fixed status polling
 
 ## 1.0.4 - 2022-08-29
 ### Fixed

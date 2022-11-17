@@ -12,6 +12,7 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Add connection error notice to the plugin.
 - Added features for paid Jetpack Scan users; including manual scans, the ability to ignore threats, and magical auto-fixers.
+- Added singular and plural translations
 - Adds ability to autotag, autorelease and autopublish releases
 - Add transport-helper package dependency
 - new cycle
@@ -23,6 +24,7 @@ This is an alpha version! The changes listed here are not final.
 ### Fixed
 - Adjusted alignment of spinner icon and loading text.
 - Fixed pricing table rendering when no introductory offer is present
+- Fixed refresh of status after triggering a manual scan.
 
 ## 1.0.4 - 2022-08-29
 ### Fixed

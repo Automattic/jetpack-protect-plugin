@@ -23,7 +23,6 @@ This is an alpha version! The changes listed here are not final.
 ### Fixed
 - Adjusted alignment of spinner icon and loading text.
 - Fixed pricing table rendering when no introductory offer is present
-- Fixed refresh of status after triggering a manual scan.
 
 ## 1.0.4 - 2022-08-29
 ### Fixed

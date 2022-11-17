@@ -5,28 +5,15 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## 1.1.0-alpha - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## 1.1.0 - 2022-11-17
 ### Added
-- Add connection error notice to the plugin.
-- Added features for paid Jetpack Scan users; including manual scans, the ability to ignore threats, and magical auto-fixers.
-- Added singular and plural translations
-- Adds ability to autotag, autorelease and autopublish releases
-- Add transport-helper package dependency
-- new cycle
+- Add features for paid Jetpack Scan users, including file and database threats, on-demand scanning, and threat auto-fixers.
 
 ### Changed
 - Compatibility: WordPress 6.1 compatibility
-- Updated package dependencies.
 
 ### Fixed
-- Adjusted alignment of spinner icon and loading text.
-- Fixed pricing table rendering when no introductory offer is present
-- Fixed refresh of status after triggering a manual scan.
-- Fixed status checking
-- Fixed status polling
+- Adjust alignment of spinner icon and loading text on the in-progress scan screen.
 
 ## 1.0.4 - 2022-08-29
 ### Fixed

@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - New release cycle for Jetpack Protect 1.1.1-alpha
 
+### Changed
+- Updated package dependencies.
+
 ## 1.1.0 - 2022-11-17
 ### Added
 - Add features for paid Jetpack Scan users, including file and database threats, on-demand scanning, and threat auto-fixers.

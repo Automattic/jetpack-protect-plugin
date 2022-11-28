@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - New release cycle for Jetpack Protect 1.1.1-alpha
 
 ### Changed
+- changed description and author
 - Updated package dependencies.
 
 ## 1.1.0 - 2022-11-17

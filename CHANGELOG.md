@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 This is an alpha version! The changes listed here are not final.
 
+### Changed
+- Update readme with 1.2.0-beta changelog
+
 ## 1.2.0-beta - 2022-12-05
 ### Added
 - Add web application firewall (WAF) features [#27528]

@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Added messaging for currently enabled firewall features.
 
 ### Changed
+- Updated package dependencies.
 - Update readme with 1.2.0-beta changelog
 
 ## 1.2.0-beta - 2022-12-05

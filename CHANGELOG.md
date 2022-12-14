@@ -16,6 +16,9 @@ This is an alpha version! The changes listed here are not final.
 - Updated package dependencies.
 - Update readme with 1.2.0-beta changelog
 
+### Fixed
+- Include required WAF files in production build.
+
 ## 1.2.0-beta - 2022-12-05
 ### Added
 - Add web application firewall (WAF) features [#27528]

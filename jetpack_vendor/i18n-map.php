@@ -50,7 +50,7 @@ return array(
     ),
     'jetpack-transport-helper' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-transport-helper',
-      'ver' => '0.1.2',
+      'ver' => '0.1.3-alpha',
     ),
     'jetpack-waf' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-waf',

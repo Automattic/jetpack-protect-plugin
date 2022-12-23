@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Added messaging for currently enabled firewall features.
+- Disable Jetpack Firewall on unsupported environments.
 
 ### Changed
 - Updated package dependencies.

@@ -18,6 +18,9 @@ This is an alpha version! The changes listed here are not final.
 - Updated package dependencies.
 - Update readme with 1.2.0-beta changelog
 
+### Removed
+- Removed unused productData state variable.
+
 ### Fixed
 - Include required WAF files in production build.
 

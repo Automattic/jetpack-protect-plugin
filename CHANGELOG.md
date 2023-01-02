@@ -22,6 +22,7 @@ This is an alpha version! The changes listed here are not final.
 - Removed unused productData state variable.
 
 ### Fixed
+- Fixed grammar.
 - Include required WAF files in production build.
 
 ## 1.2.0-beta - 2022-12-05

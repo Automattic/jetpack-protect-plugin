@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 This is an alpha version! The changes listed here are not final.
 
+### Changed
+- Use `WP_Filesystem` more consistently in `Helper_Script_Manager`.
+
 ## [0.1.2] - 2022-12-05
 ### Changed
 - Updated package dependencies. [#27688]

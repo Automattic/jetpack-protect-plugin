@@ -24,6 +24,7 @@ This is an alpha version! The changes listed here are not final.
 ### Fixed
 - Fixed grammar.
 - Include required WAF files in production build.
+- Poll for scan status while scanner is provisioning
 - Updated composer.lock
 
 ## 1.2.0-beta - 2022-12-05

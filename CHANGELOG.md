@@ -23,6 +23,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Fixed grammar.
+- Fixed invalid property names
 - Include required WAF files in production build.
 - Poll for scan status while scanner is provisioning
 - Round percentage values in progress bar component

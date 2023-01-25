@@ -18,6 +18,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Updated package dependencies.
 - Update readme with 1.2.0-beta changelog
+- Use `flex-start`/`flex-end` instead of `start`/`end` for better browser compatibility.
 
 ### Removed
 - Removed unused productData state variable.

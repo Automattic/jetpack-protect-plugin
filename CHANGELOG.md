@@ -5,31 +5,20 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## 1.3.0-alpha - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## 1.3.0-beta - 2023-01-25
 ### Added
-- Add ability to toggle automatic and manual firewall rules independently.
-- Added messaging for currently enabled firewall features.
-- Disable Jetpack Firewall on unsupported environments.
-- Scan progress bar
+- Add ability to toggle automatic and manual firewall rules independently. [#27726]
+- Add messaging for currently enabled firewall features. [#27845]
+- Disable Jetpack Firewall on unsupported environments. [#27939]
+- Add a progress bar during site scan. [#27171]
 
 ### Changed
-- Updated package dependencies.
-- Update readme with 1.2.0-beta changelog
-- Use `flex-start`/`flex-end` instead of `start`/`end` for better browser compatibility.
-
-### Removed
-- Removed unused productData state variable.
+- Updated package dependencies. [#28303]
 
 ### Fixed
-- Fixed grammar.
-- Fixed invalid property names
-- Include required WAF files in production build.
-- Poll for scan status while scanner is provisioning
-- Round percentage values in progress bar component
-- Updated composer.lock
+- Poll for scan status while scanner is provisioning. [#28275]
+- Assorted fixes for minor bugs and grammar. [#27846] [#28091] [#28397] [#28273]
+- Updated composer.lock [#28185]
 
 ## 1.2.0-beta - 2022-12-05
 ### Added

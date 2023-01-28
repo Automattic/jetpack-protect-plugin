@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Use `flex-start`/`flex-end` instead of `start`/`end` for better browser compatibility.
 
+### Fixed
+- Fix connection button loading indicators
+
 ## 1.3.0-beta - 2023-01-25
 ### Added
 - Add ability to toggle automatic and manual firewall rules independently. [#27726]

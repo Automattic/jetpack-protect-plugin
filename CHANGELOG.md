@@ -15,6 +15,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Fix connection button loading indicators
+- Fix Protect status report caching
 
 ## 1.3.0-beta - 2023-01-25
 ### Added

@@ -15,6 +15,7 @@ This is an alpha version! The changes listed here are not final.
 - Use `flex-start`/`flex-end` instead of `start`/`end` for better browser compatibility.
 
 ### Fixed
+- Admin: remove example full path from example in UI
 - Fix connection button loading indicators
 - Fix Protect status report caching
 

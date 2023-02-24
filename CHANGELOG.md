@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Updated package dependencies.
+- Update readme.txt
 - Update to React 18.
 - Use `flex-start`/`flex-end` instead of `start`/`end` for better browser compatibility.
 

@@ -24,6 +24,10 @@ return array(
       'path' => 'jetpack_vendor/automattic/jetpack-identity-crisis',
       'ver' => '0.8.38',
     ),
+    'jetpack-ip' => array(
+      'path' => 'jetpack_vendor/automattic/jetpack-ip',
+      'ver' => '0.1.0-alpha',
+    ),
     'jetpack-jitm' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-jitm',
       'ver' => '2.3.0',
@@ -54,7 +58,7 @@ return array(
     ),
     'jetpack-waf' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-waf',
-      'ver' => '0.9.4-alpha',
+      'ver' => '0.10.0-alpha',
     ),
   ),
 );

@@ -5,23 +5,19 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## 1.4.0-alpha - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## 1.3.0-beta2 - 2023-03-08
 ### Added
-- Interstitial page link for getting started with an existing plan or license key
+- Add link to pricing page for getting started with an existing plan or license key. [#27745]
 
 ### Changed
-- Updated package dependencies.
-- Update readme.txt
-- Update to React 18.
-- Use `flex-start`/`flex-end` instead of `start`/`end` for better browser compatibility.
+- Updated package dependencies. [#29297]
+- Update to React 18. [#28710]
+- Use `flex-start`/`flex-end` instead of `start`/`end` for better browser compatibility. [#28530]
 
 ### Fixed
-- Admin: remove example full path from example in UI
-- Fix connection button loading indicators
-- Fix Protect status report caching
+- Remove unnecessary full path from example in UI. [#29037]
+- Fix connection button loading indicators. [#28514]
+- Fix Protect status report caching. [#28766]
 
 ## 1.3.0-beta - 2023-01-25
 ### Added

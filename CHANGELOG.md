@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Interstitial page link for getting started with an existing plan or license key
 
 ### Changed
+- General: indicate full compatibility with the latest version of WordPress, 6.2.
 - Updated package dependencies.
 - Update readme.txt
 - Update to React 18.

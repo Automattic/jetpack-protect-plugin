@@ -26,7 +26,7 @@ return array(
     ),
     'jetpack-ip' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-ip',
-      'ver' => '0.1.0',
+      'ver' => '0.1.1-alpha',
     ),
     'jetpack-jitm' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-jitm',
@@ -50,7 +50,7 @@ return array(
     ),
     'jetpack-sync' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-sync',
-      'ver' => '1.47.3',
+      'ver' => '1.47.4-alpha',
     ),
     'jetpack-transport-helper' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-transport-helper',
@@ -58,7 +58,7 @@ return array(
     ),
     'jetpack-waf' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-waf',
-      'ver' => '0.10.2',
+      'ver' => '0.11.0-alpha',
     ),
   ),
 );

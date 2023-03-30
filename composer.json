@@ -14,7 +14,7 @@
 		"automattic/jetpack-my-jetpack": "^2.9.1",
 		"automattic/jetpack-plugins-installer": "^0.2.3",
 		"automattic/jetpack-sync": "^1.47.4",
-		"automattic/jetpack-transport-helper": "^0.1.4-alpha",
+		"automattic/jetpack-transport-helper": "^0.1.4",
 		"automattic/jetpack-plans": "^0.2.10",
 		"automattic/jetpack-waf": "^0.11.0",
 		"automattic/jetpack-status": "^1.16.3"
@@ -70,6 +70,6 @@
 			"automattic/jetpack-autoloader": true,
 			"automattic/jetpack-composer-plugin": true
 		},
-		"autoloader-suffix": "c4802e05bbcf59fd3b6350e8d3e5482c_protectⓥ1_4_0_alpha"
+		"autoloader-suffix": "c4802e05bbcf59fd3b6350e8d3e5482c_protectⓥ1_4_1_alpha"
 	}
 }

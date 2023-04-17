@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Updated package dependencies.
+- Update WordPress version requirements. Now requires version 6.1.
 
 ## 1.4.0-beta - 2023-03-29
 ### Added

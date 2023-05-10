@@ -7,7 +7,7 @@
 		"ext-json": "*",
 		"automattic/jetpack-assets": "^1.18.2",
 		"automattic/jetpack-admin-ui": "^0.2.20",
-		"automattic/jetpack-autoloader": "^2.11.19",
+		"automattic/jetpack-autoloader": "^2.11.20-alpha",
 		"automattic/jetpack-composer-plugin": "^1.1.10",
 		"automattic/jetpack-config": "^1.15.2",
 		"automattic/jetpack-identity-crisis": "^0.8.46",
@@ -16,7 +16,7 @@
 		"automattic/jetpack-sync": "^1.48.1-alpha",
 		"automattic/jetpack-transport-helper": "^0.1.5-alpha",
 		"automattic/jetpack-plans": "^0.3.0-alpha",
-		"automattic/jetpack-waf": "^0.11.4",
+		"automattic/jetpack-waf": "^0.11.5-alpha",
 		"automattic/jetpack-status": "^1.17.1-alpha"
 	},
 	"require-dev": {

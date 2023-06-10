@@ -17,6 +17,9 @@ This is an alpha version! The changes listed here are not final.
 - Updated package dependencies.
 - Update WordPress version requirements. Now requires version 6.1.
 
+### Fixed
+- Fixed sorting of threats by severity.
+
 ## 1.4.0-beta - 2023-03-29
 ### Added
 - Add brute force protection. [#28401]

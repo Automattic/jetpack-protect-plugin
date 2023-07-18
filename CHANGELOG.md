@@ -5,18 +5,17 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## 2.0.0-alpha - unreleased
+## 1.4.1-alpha - unreleased
 
 This is an alpha version! The changes listed here are not final.
 
 ### Added
-- Add authentication to zendesk chat widget
 - Add brute force protection access for particular environments that do not support the WAF
 - Add filtering for unattached and unrevoked licenses within upgrade flow check
+- Updated composer.lock
 
 ### Changed
 - General: indicate full compatibility with the latest version of WordPress, 6.3.
-- Remove conditional rendering from zendesk chat widget component due to it being handled by an api endpoint now
 - Updated package dependencies.
 - Update WordPress version requirements. Now requires version 6.1.
 

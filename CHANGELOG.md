@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Add authentication to zendesk chat widget
+- Add brute force protection access for particular environments that do not support the WAF
 - Add filtering for unattached and unrevoked licenses within upgrade flow check
 
 ### Changed

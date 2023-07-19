@@ -16,8 +16,8 @@
 		"automattic/jetpack-sync": "^1.51.0",
 		"automattic/jetpack-transport-helper": "^0.1.5",
 		"automattic/jetpack-plans": "^0.3.3",
-		"automattic/jetpack-waf": "^0.12.0-alpha",
-		"automattic/jetpack-status": "^1.18.0-alpha"
+		"automattic/jetpack-waf": "^0.11.8",
+		"automattic/jetpack-status": "^1.18.0"
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "1.0.4",
@@ -70,6 +70,6 @@
 			"automattic/jetpack-autoloader": true,
 			"automattic/jetpack-composer-plugin": true
 		},
-		"autoloader-suffix": "c4802e05bbcf59fd3b6350e8d3e5482c_protectⓥ1_4_1_alpha"
+		"autoloader-suffix": "c4802e05bbcf59fd3b6350e8d3e5482c_protectⓥ1_4_2_alpha"
 	}
 }

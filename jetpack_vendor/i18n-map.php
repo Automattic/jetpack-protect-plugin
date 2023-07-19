@@ -18,7 +18,7 @@ return array(
     ),
     'jetpack-connection' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-connection',
-      'ver' => '1.54.1-alpha1689640587',
+      'ver' => '1.54.1',
     ),
     'jetpack-idc' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-identity-crisis',
@@ -58,7 +58,7 @@ return array(
     ),
     'jetpack-waf' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-waf',
-      'ver' => '0.12.0-alpha1689712902',
+      'ver' => '0.11.8',
     ),
   ),
 );

@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 This is an alpha version! The changes listed here are not final.
 
+### Changed
+- Updated package dependencies.
+
 ## 1.4.1 - 2023-07-18
 ### Changed
 - Brute Force Protection: add access to feature in environments that otherwise do not support the WAF. [#31952]

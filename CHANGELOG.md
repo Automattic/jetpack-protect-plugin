@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Updated package dependencies.
+- Use the new method to render Connection initial state.
 
 ## 1.4.1 - 2023-07-18
 ### Changed

@@ -50,7 +50,7 @@ return array(
     ),
     'jetpack-sync' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-sync',
-      'ver' => '1.55.2-alpha1692910272',
+      'ver' => '1.55.2',
     ),
     'jetpack-transport-helper' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-transport-helper',
@@ -58,7 +58,7 @@ return array(
     ),
     'jetpack-waf' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-waf',
-      'ver' => '0.11.9-alpha1692641735',
+      'ver' => '0.11.9',
     ),
   ),
 );

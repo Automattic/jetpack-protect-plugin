@@ -15,7 +15,7 @@ return array(
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-transport-helper/actions.php'
 	),
 	'3d45c7e6a7f0e71849e33afe4b3b3ede' => array(
-		'version' => '0.11.9.0',
+		'version' => '0.11.10.0-alpha1693920191',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-waf/cli.php'
 	),
 );

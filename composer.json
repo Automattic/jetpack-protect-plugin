@@ -16,12 +16,12 @@
 		"automattic/jetpack-sync": "^1.57.2",
 		"automattic/jetpack-transport-helper": "^0.1.6-alpha",
 		"automattic/jetpack-plans": "^0.3.4",
-		"automattic/jetpack-waf": "^0.11.11",
+		"automattic/jetpack-waf": "^0.11.12-alpha",
 		"automattic/jetpack-status": "^1.18.5"
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "1.1.0",
-		"automattic/jetpack-changelogger": "^3.3.10",
+		"automattic/jetpack-changelogger": "^3.3.11-alpha",
 		"automattic/wordbless": "0.4.2"
 	},
 	"autoload": {

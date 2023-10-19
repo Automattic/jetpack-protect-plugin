@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Updated package dependencies.
 
+### Fixed
+- Fix helper script upload for sites without direct file system access.
+
 ## [0.1.5] - 2023-07-06
 ### Added
 - Add Jetpack Autoloader package suggestion. [#29988]

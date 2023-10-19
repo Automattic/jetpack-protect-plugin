@@ -687,15 +687,15 @@ return array(
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-connection/src/class-tracking.php'
 	),
 	'Automattic\\Jetpack\\Transport_Helper\\Helper_Script_Manager' => array(
-		'version' => '0.1.6.0-alpha1694712909',
+		'version' => '0.1.6.0-alpha1697686831',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-transport-helper/src/class-helper-script-manager.php'
 	),
 	'Automattic\\Jetpack\\Transport_Helper\\Package_Version' => array(
-		'version' => '0.1.6.0-alpha1694712909',
+		'version' => '0.1.6.0-alpha1697686831',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-transport-helper/src/class-package-version.php'
 	),
 	'Automattic\\Jetpack\\Transport_Helper\\REST_Controller' => array(
-		'version' => '0.1.6.0-alpha1694712909',
+		'version' => '0.1.6.0-alpha1697686831',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-transport-helper/src/class-rest-controller.php'
 	),
 	'Automattic\\Jetpack\\Waf\\Brute_Force_Protection\\Brute_Force_Protection' => array(

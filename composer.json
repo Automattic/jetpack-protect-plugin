@@ -15,7 +15,7 @@
 		"automattic/jetpack-plugins-installer": "^0.2.5",
 		"automattic/jetpack-sync": "^1.59.0-alpha",
 		"automattic/jetpack-transport-helper": "^0.1.6",
-		"automattic/jetpack-plans": "^0.3.4",
+		"automattic/jetpack-plans": "^0.3.5-alpha",
 		"automattic/jetpack-waf": "^0.11.13",
 		"automattic/jetpack-status": "^1.18.5"
 	},

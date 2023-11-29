@@ -17,7 +17,7 @@
 		"automattic/jetpack-transport-helper": "^0.2.0-alpha",
 		"automattic/jetpack-plans": "^0.4.0",
 		"automattic/jetpack-waf": "^0.12.1",
-		"automattic/jetpack-status": "^2.0.1"
+		"automattic/jetpack-status": "^2.0.2-alpha"
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "1.1.0",

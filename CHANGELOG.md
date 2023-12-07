@@ -16,6 +16,9 @@ This is an alpha version! The changes listed here are not final.
 - Updated package dependencies.
 - Update lockfile
 
+### Fixed
+- Fix Popover component styling
+
 ## 1.4.2 - 2023-10-19
 ### Changed
 - General: update WordPress version requirements to WordPress 6.2. [#32762] [#32772]

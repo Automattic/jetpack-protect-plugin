@@ -17,6 +17,7 @@ This is an alpha version! The changes listed here are not final.
 - Update lockfile
 
 ### Fixed
+- Fix Modal component overflow scrolling
 - Fix Popover component styling
 
 ## 1.4.2 - 2023-10-19

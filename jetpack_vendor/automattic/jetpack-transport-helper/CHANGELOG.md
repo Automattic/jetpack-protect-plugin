@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - The package now requires PHP >= 7.0.
 
+### Fixed
+- Backup: Bug fixes in helper script installation class.
+
 ## [0.1.6] - 2023-10-19
 ### Changed
 - Updated package dependencies. [#32605]

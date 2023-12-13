@@ -19,6 +19,7 @@ This is an alpha version! The changes listed here are not final.
 ### Fixed
 - Fix Modal component overflow scrolling
 - Fix Popover component styling
+- Improved helper script installer logging.
 
 ## 1.4.2 - 2023-10-19
 ### Changed

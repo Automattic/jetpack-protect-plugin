@@ -70,6 +70,18 @@ return array(
 		'version' => '0.3.0.0',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-plugins-installer/src/class-automatic-install-skin.php'
 	),
+	'Automattic\\Jetpack\\Backup\\Helper_Script_Manager' => array(
+		'version' => '0.1.0.0-alpha1702478584',
+		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-backup-helper-script-manager/src/class-helper-script-manager.php'
+	),
+	'Automattic\\Jetpack\\Backup\\Helper_Script_Manager_Impl' => array(
+		'version' => '0.1.0.0-alpha1702478584',
+		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-backup-helper-script-manager/src/class-helper-script-manager-impl.php'
+	),
+	'Automattic\\Jetpack\\Backup\\Throw_On_Errors' => array(
+		'version' => '0.1.0.0-alpha1702478584',
+		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-backup-helper-script-manager/src/class-throw-on-errors.php'
+	),
 	'Automattic\\Jetpack\\Composer\\Manager' => array(
 		'version' => '2.0.0.0',
 		'path'    => $vendorDir . '/automattic/jetpack-composer-plugin/src/class-manager.php'
@@ -698,16 +710,12 @@ return array(
 		'version' => '2.1.0.0',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-connection/src/class-tracking.php'
 	),
-	'Automattic\\Jetpack\\Transport_Helper\\Helper_Script_Manager' => array(
-		'version' => '0.2.0.0-alpha1700485793',
-		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-transport-helper/src/class-helper-script-manager.php'
-	),
 	'Automattic\\Jetpack\\Transport_Helper\\Package_Version' => array(
-		'version' => '0.2.0.0-alpha1700485793',
+		'version' => '0.2.0.0-alpha1702478584',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-transport-helper/src/class-package-version.php'
 	),
 	'Automattic\\Jetpack\\Transport_Helper\\REST_Controller' => array(
-		'version' => '0.2.0.0-alpha1700485793',
+		'version' => '0.2.0.0-alpha1702478584',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-transport-helper/src/class-rest-controller.php'
 	),
 	'Automattic\\Jetpack\\Waf\\Brute_Force_Protection\\Brute_Force_Protection' => array(

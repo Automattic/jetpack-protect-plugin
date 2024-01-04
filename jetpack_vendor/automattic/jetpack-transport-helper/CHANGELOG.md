@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - The package now requires PHP >= 7.0.
 
 ### Fixed
+- Backup: Add namespace versioning to Helper_Script_Manager and other classes
 - Backup: Bug fixes in helper script installation class.
 
 ## [0.1.6] - 2023-10-19

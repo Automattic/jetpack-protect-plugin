@@ -71,15 +71,15 @@ return array(
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-plugins-installer/src/class-automatic-install-skin.php'
 	),
 	'Automattic\\Jetpack\\Backup\\V0001\\Helper_Script_Manager' => array(
-		'version' => '0.2.0.0-alpha1704383080',
+		'version' => '0.2.0.0',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-backup-helper-script-manager/src/class-helper-script-manager.php'
 	),
 	'Automattic\\Jetpack\\Backup\\V0001\\Helper_Script_Manager_Impl' => array(
-		'version' => '0.2.0.0-alpha1704383080',
+		'version' => '0.2.0.0',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-backup-helper-script-manager/src/class-helper-script-manager-impl.php'
 	),
 	'Automattic\\Jetpack\\Backup\\V0001\\Throw_On_Errors' => array(
-		'version' => '0.2.0.0-alpha1704383080',
+		'version' => '0.2.0.0',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-backup-helper-script-manager/src/class-throw-on-errors.php'
 	),
 	'Automattic\\Jetpack\\Composer\\Manager' => array(

@@ -4,7 +4,7 @@
 
 namespace Composer\Autoload;
 
-class ComposerStaticInitc4802e05bbcf59fd3b6350e8d3e5482c_protectⓥ2_0_1_alpha
+class ComposerStaticInitc4802e05bbcf59fd3b6350e8d3e5482c_protectⓥ2_1_0_alpha
 {
     public static $files = array (
         '3773ef3f09c37da5478d578e32b03a4b' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-assets/actions.php',
@@ -127,6 +127,7 @@ class ComposerStaticInitc4802e05bbcf59fd3b6350e8d3e5482c_protectⓥ2_0_1_alpha
         'Automattic\\Jetpack\\Plugins_Installer' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-plugins-installer/src/class-plugins-installer.php',
         'Automattic\\Jetpack\\Protect\\Credentials' => __DIR__ . '/../..' . '/src/class-credentials.php',
         'Automattic\\Jetpack\\Protect\\Extension_Model' => __DIR__ . '/../..' . '/src/models/class-extension-model.php',
+        'Automattic\\Jetpack\\Protect\\Onboarding' => __DIR__ . '/../..' . '/src/class-onboarding.php',
         'Automattic\\Jetpack\\Protect\\Plan' => __DIR__ . '/../..' . '/src/class-plan.php',
         'Automattic\\Jetpack\\Protect\\Protect_Status' => __DIR__ . '/../..' . '/src/class-protect-status.php',
         'Automattic\\Jetpack\\Protect\\REST_Controller' => __DIR__ . '/../..' . '/src/class-rest-controller.php',
@@ -237,9 +238,9 @@ class ComposerStaticInitc4802e05bbcf59fd3b6350e8d3e5482c_protectⓥ2_0_1_alpha
     public static function getInitializer(ClassLoader $loader)
     {
         return \Closure::bind(function () use ($loader) {
-            $loader->prefixLengthsPsr4 = ComposerStaticInitc4802e05bbcf59fd3b6350e8d3e5482c_protectⓥ2_0_1_alpha::$prefixLengthsPsr4;
-            $loader->prefixDirsPsr4 = ComposerStaticInitc4802e05bbcf59fd3b6350e8d3e5482c_protectⓥ2_0_1_alpha::$prefixDirsPsr4;
-            $loader->classMap = ComposerStaticInitc4802e05bbcf59fd3b6350e8d3e5482c_protectⓥ2_0_1_alpha::$classMap;
+            $loader->prefixLengthsPsr4 = ComposerStaticInitc4802e05bbcf59fd3b6350e8d3e5482c_protectⓥ2_1_0_alpha::$prefixLengthsPsr4;
+            $loader->prefixDirsPsr4 = ComposerStaticInitc4802e05bbcf59fd3b6350e8d3e5482c_protectⓥ2_1_0_alpha::$prefixDirsPsr4;
+            $loader->classMap = ComposerStaticInitc4802e05bbcf59fd3b6350e8d3e5482c_protectⓥ2_1_0_alpha::$classMap;
 
         }, null, ClassLoader::class);
     }

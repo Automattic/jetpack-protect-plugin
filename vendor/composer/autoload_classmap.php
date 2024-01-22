@@ -106,6 +106,7 @@ return array(
     'Automattic\\Jetpack\\Plugins_Installer' => $baseDir . '/jetpack_vendor/automattic/jetpack-plugins-installer/src/class-plugins-installer.php',
     'Automattic\\Jetpack\\Protect\\Credentials' => $baseDir . '/src/class-credentials.php',
     'Automattic\\Jetpack\\Protect\\Extension_Model' => $baseDir . '/src/models/class-extension-model.php',
+    'Automattic\\Jetpack\\Protect\\Onboarding' => $baseDir . '/src/class-onboarding.php',
     'Automattic\\Jetpack\\Protect\\Plan' => $baseDir . '/src/class-plan.php',
     'Automattic\\Jetpack\\Protect\\Protect_Status' => $baseDir . '/src/class-protect-status.php',
     'Automattic\\Jetpack\\Protect\\REST_Controller' => $baseDir . '/src/class-rest-controller.php',

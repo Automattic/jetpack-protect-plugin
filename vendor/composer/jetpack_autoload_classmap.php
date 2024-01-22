@@ -418,6 +418,10 @@ return array(
 		'version' => 'dev-trunk',
 		'path'    => $baseDir . '/src/models/class-extension-model.php'
 	),
+	'Automattic\\Jetpack\\Protect\\Onboarding' => array(
+		'version' => 'dev-trunk',
+		'path'    => $baseDir . '/src/class-onboarding.php'
+	),
 	'Automattic\\Jetpack\\Protect\\Plan' => array(
 		'version' => 'dev-trunk',
 		'path'    => $baseDir . '/src/class-plan.php'

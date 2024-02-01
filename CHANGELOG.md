@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Added onboarding flows
 
 ### Changed
+- Updated package dependencies.
 - Use blog ID instead of site slug in checkout links.
 
 ## 2.0.0 - 2024-01-18

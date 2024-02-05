@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Added onboarding flows
+- Adds standalone mode indicator
 
 ### Changed
 - Updated package dependencies.

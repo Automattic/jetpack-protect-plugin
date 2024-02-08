@@ -5,6 +5,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.2.1-alpha] - unreleased
+
+This is an alpha version! The changes listed here are not final.
+
+### Fixed
+- Write helper script to ABSPATH by default, just like we did before
+
 ## [0.2.0] - 2024-01-18
 ### Changed
 - The package now requires PHP >= 7.0. [#34192]
@@ -48,6 +55,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Updated package dependencies.
 
+[0.2.1-alpha]: https://github.com/Automattic/jetpack-transport-helper/compare/v0.2.0...v0.2.1-alpha
 [0.2.0]: https://github.com/Automattic/jetpack-transport-helper/compare/v0.1.6...v0.2.0
 [0.1.6]: https://github.com/Automattic/jetpack-transport-helper/compare/v0.1.5...v0.1.6
 [0.1.5]: https://github.com/Automattic/jetpack-transport-helper/compare/v0.1.4...v0.1.5

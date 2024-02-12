@@ -38,7 +38,7 @@ return array(
     ),
     'jetpack-my-jetpack' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-my-jetpack',
-      'ver' => '4.9.1-alpha1707769353',
+      'ver' => '4.9.2-alpha1707770451',
     ),
     'jetpack-password-checker' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-password-checker',
@@ -50,7 +50,7 @@ return array(
     ),
     'jetpack-sync' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-sync',
-      'ver' => '2.6.0-alpha1707756269',
+      'ver' => '2.6.0',
     ),
     'jetpack-transport-helper' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-transport-helper',
@@ -58,7 +58,7 @@ return array(
     ),
     'jetpack-waf' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-waf',
-      'ver' => '0.14.0-alpha1707174077',
+      'ver' => '0.14.0',
     ),
   ),
 );

@@ -12,6 +12,7 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Added onboarding flows
 - Adds standalone mode indicator
+- New setting in /sties/$site/settings that is not relevant to this plugin.
 
 ### Changed
 - Updated package dependencies.

@@ -20,6 +20,9 @@ This is an alpha version! The changes listed here are not final.
 - Update package lock
 - Use blog ID instead of site slug in checkout links.
 
+### Fixed
+- Jetpack Protect: Prevent the text orphans of scanning header"
+
 ## 2.0.0 - 2024-01-18
 ### Changed
 - Firewall: use datetime versioning for rules file updates. [#34698]

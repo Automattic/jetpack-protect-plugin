@@ -5,7 +5,7 @@
 	"license": "GPL-2.0-or-later",
 	"require": {
 		"php": ">=7.0",
-		"automattic/jetpack-backup-helper-script-manager": "^0.2.2-alpha",
+		"automattic/jetpack-backup-helper-script-manager": "^0.2.2",
 		"automattic/jetpack-connection": "^2.3.3-alpha"
 	},
 	"require-dev": {

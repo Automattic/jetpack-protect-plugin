@@ -10,7 +10,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 This is an alpha version! The changes listed here are not final.
 
 ### Added
-- Add data to WAF logs and add toggle for users to opt-in to share more data with us if needed.
 - Added onboarding flows
 - Adds standalone mode indicator
 - New setting in /sties/$site/settings that is not relevant to this plugin.

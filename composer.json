@@ -16,7 +16,7 @@
 		"automattic/jetpack-sync": "^2.10.2",
 		"automattic/jetpack-transport-helper": "^0.2.2",
 		"automattic/jetpack-plans": "^0.4.3",
-		"automattic/jetpack-waf": "^0.15.2",
+		"automattic/jetpack-waf": "^0.16.0-alpha",
 		"automattic/jetpack-status": "^2.1.2"
 	},
 	"require-dev": {
@@ -70,6 +70,6 @@
 			"automattic/jetpack-autoloader": true,
 			"automattic/jetpack-composer-plugin": true
 		},
-		"autoloader-suffix": "c4802e05bbcf59fd3b6350e8d3e5482c_protectⓥ2_1_1_alpha"
+		"autoloader-suffix": "c4802e05bbcf59fd3b6350e8d3e5482c_protectⓥ2_2_0_alpha"
 	}
 }

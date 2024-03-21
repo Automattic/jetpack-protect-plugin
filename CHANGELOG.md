@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Add data to WAF logs and add toggle for users to opt-in to share more data with us if needed.
+- Trigger red bubble notification when bad install is detected
 
 ### Changed
 - Only show installation errors on plugins page

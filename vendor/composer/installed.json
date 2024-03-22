@@ -1520,17 +1520,17 @@
         },
         {
             "name": "automattic/jetpack-waf",
-            "version": "v0.15.1",
-            "version_normalized": "0.15.1.0",
+            "version": "v0.16.0",
+            "version_normalized": "0.16.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Automattic/jetpack-waf.git",
-                "reference": "7c1fb33651bfeefea44b0864b67849785f899b0e"
+                "reference": "06b87d410129d170c4d28ef670859822b48abb1f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Automattic/jetpack-waf/zipball/7c1fb33651bfeefea44b0864b67849785f899b0e",
-                "reference": "7c1fb33651bfeefea44b0864b67849785f899b0e",
+                "url": "https://api.github.com/repos/Automattic/jetpack-waf/zipball/06b87d410129d170c4d28ef670859822b48abb1f",
+                "reference": "06b87d410129d170c4d28ef670859822b48abb1f",
                 "shasum": ""
             },
             "require": {
@@ -1549,7 +1549,7 @@
             "suggest": {
                 "automattic/jetpack-autoloader": "Allow for better interoperability with other plugins that use this package."
             },
-            "time": "2024-03-14T20:43:22+00:00",
+            "time": "2024-03-22T17:48:39+00:00",
             "type": "jetpack-library",
             "extra": {
                 "autotagger": true,
@@ -1559,7 +1559,7 @@
                     "link-template": "https://github.com/Automattic/jetpack-waf/compare/v${old}...v${new}"
                 },
                 "branch-alias": {
-                    "dev-trunk": "0.15.x-dev"
+                    "dev-trunk": "0.16.x-dev"
                 }
             },
             "installation-source": "dist",
@@ -1577,7 +1577,7 @@
             ],
             "description": "Tools to assist with the Jetpack Web Application Firewall",
             "support": {
-                "source": "https://github.com/Automattic/jetpack-waf/tree/v0.15.1"
+                "source": "https://github.com/Automattic/jetpack-waf/tree/v0.16.0"
             },
             "install-path": "../../jetpack_vendor/automattic/jetpack-waf"
         },

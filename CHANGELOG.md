@@ -5,6 +5,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## 2.2.0-alpha - unreleased
+
+This is an alpha version! The changes listed here are not final.
+
+### Added
+- Add data to WAF logs and add toggle for users to opt-in to share more data with us if needed.
+
 ## 2.1.0-beta - 2024-03-14
 ### Added
 - Added onboarding flows. [#34649]

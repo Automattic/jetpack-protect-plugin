@@ -15,6 +15,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Only show installation errors on plugins page
+- Updated package dependencies.
 
 ## 2.1.0-beta - 2024-03-14
 ### Added

@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Add data to WAF logs and add toggle for users to opt-in to share more data with us if needed.
+- Packages: add version tracking for identity-crisis package.
 - Trigger red bubble notification when bad install is detected
 
 ### Changed

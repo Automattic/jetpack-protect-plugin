@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Add data to WAF logs and add toggle for users to opt-in to share more data with us if needed.
 
+### Fixed
+- Jetpack Protect footer: Ensured that links to the cloud and the promotion around it are not shown if you are on a platform where the firewall is not supported.
+
 ## 2.1.0-beta - 2024-03-14
 ### Added
 - Added onboarding flows. [#34649]

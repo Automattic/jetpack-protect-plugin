@@ -15,6 +15,7 @@ This is an alpha version! The changes listed here are not final.
 - Trigger red bubble notification when bad install is detected
 
 ### Changed
+- General: update WordPress version requirements to WordPress 6.4.
 - Only show installation errors on plugins page
 - Updated package dependencies.
 

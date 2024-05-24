@@ -5,26 +5,23 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## 2.2.0-alpha - unreleased
+## 2.2.1-alpha - unreleased
 
 This is an alpha version! The changes listed here are not final.
 
+## 2.2.0 - 2024-05-24
 ### Added
-- Add data to WAF logs and add toggle for users to opt-in to share more data with us if needed.
-- Add Woocommerce event remove_order_items to Jetpack Sync
-- Packages: add version tracking for identity-crisis package.
-- Trigger red bubble notification when bad install is detected
+- Add data to WAF logs and a toggle for users to opt-in to share more data with us if needed. [#36377]
+- Trigger a red bubble notification when a bad install is detected. [#36449]
 
 ### Changed
-- General: update WordPress version requirements to WordPress 6.4.
-- General: use wp_admin_notice function introduced in WP 6.4 to display notices.
-- Only show installation errors on plugins page
-- Updated package dependencies.
+- Update WordPress minimum version requirement to WordPress 6.4. [#37047]
+- Only show installation errors on the plugins page. [#36390]
 
 ### Fixed
-- Jetpack Protect footer: Ensured that links to the cloud and the promotion around it are not shown if you are on a platform where the firewall is not supported.
+- Jetpack Protect Footer: ensure that "Go to cloud" links are not shown when on a platform with no firewall support. [#36794]
 
-## 2.1.0-beta - 2024-03-14
+## 2.1.0 - 2024-03-14
 ### Added
 - Added onboarding flows. [#34649]
 - Added firewall standalone mode indicator. [#34840]

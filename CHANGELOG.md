@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 This is an alpha version! The changes listed here are not final.
 
+### Changed
+- Remove the 'jetpack-identity-crisis' dependency.
+
 ## 2.2.0 - 2024-05-24
 ### Added
 - Add data to WAF logs and a toggle for users to opt-in to share more data with us if needed. [#36377]

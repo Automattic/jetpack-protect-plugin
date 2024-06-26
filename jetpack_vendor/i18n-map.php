@@ -62,7 +62,7 @@ return array(
     ),
     'jetpack-waf' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-waf',
-      'ver' => '0.16.10-alpha1719321191',
+      'ver' => '0.16.10',
     ),
   ),
 );

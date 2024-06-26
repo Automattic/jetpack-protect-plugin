@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Change codebase to use clsx instead of classnames.
+- Ensure in-progress fixer indicator is functional
 - General: indicate compatibility with the upcoming version of WordPress - 6.6.
 - Remove the 'jetpack-identity-crisis' dependency.
 - Updated package dependencies.

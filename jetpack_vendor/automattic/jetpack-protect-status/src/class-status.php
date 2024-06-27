@@ -2,15 +2,20 @@
 /**
  * Class to handle the Status of Jetpack Protect
  *
- * @package automattic/jetpack-protect-plugin
+ * @package automattic/jetpack-protect-status
  */
 
-namespace Automattic\Jetpack\Protect;
+namespace Automattic\Jetpack\Protect_Status;
+
+use Automattic\Jetpack\Protect_Models\Extension_Model;
+use Automattic\Jetpack\Protect_Models\Status_Model;
 
 /**
  * Class that handles fetching and caching the Status of vulnerabilities check from the WPCOM servers
  */
 class Status {
+
+	const PACKAGE_VERSION = '0.1.0-alpha';
 	/**
 	 * Name of the option where status is stored
 	 *

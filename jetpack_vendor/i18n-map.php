@@ -52,6 +52,14 @@ return array(
       'path' => 'jetpack_vendor/automattic/jetpack-plugins-installer',
       'ver' => '0.4.0',
     ),
+    'jetpack-protect-models' => array(
+      'path' => 'jetpack_vendor/automattic/jetpack-protect-models',
+      'ver' => '0.1.0-alpha1718401685',
+    ),
+    'jetpack-protect-status' => array(
+      'path' => 'jetpack_vendor/automattic/jetpack-protect-status',
+      'ver' => '0.1.0-alpha1719323747',
+    ),
     'jetpack-sync' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-sync',
       'ver' => '3.1.3',

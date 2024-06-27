@@ -2,10 +2,10 @@
 /**
  * Model class for threat data.
  *
- * @package automattic/jetpack-protect-plugin
+ * @package automattic/jetpack-protect-models
  */
 
-namespace Automattic\Jetpack\Protect;
+namespace Automattic\Jetpack\Protect_Models;
 
 /**
  * Model class for threat data.

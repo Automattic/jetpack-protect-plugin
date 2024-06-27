@@ -2,14 +2,17 @@
 /**
  * Class to handle the Protect Status of Jetpack Protect
  *
- * @package automattic/jetpack-protect-plugin
+ * @package automattic/jetpack-protect-status
  */
 
-namespace Automattic\Jetpack\Protect;
+namespace Automattic\Jetpack\Protect_Status;
 
 use Automattic\Jetpack\Connection\Client;
 use Automattic\Jetpack\Connection\Manager as Connection_Manager;
 use Automattic\Jetpack\Plugins_Installer;
+use Automattic\Jetpack\Protect_Models\Extension_Model;
+use Automattic\Jetpack\Protect_Models\Status_Model;
+use Automattic\Jetpack\Protect_Models\Threat_Model;
 use Automattic\Jetpack\Redirect;
 use Automattic\Jetpack\Sync\Functions as Sync_Functions;
 use Jetpack_Options;

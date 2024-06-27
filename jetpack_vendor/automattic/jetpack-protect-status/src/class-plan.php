@@ -2,10 +2,10 @@
 /**
  * Class to handle the Protect plan
  *
- * @package automattic/jetpack-protect-plugin
+ * @package automattic/jetpack-protect-status
  */
 
-namespace Automattic\Jetpack\Protect;
+namespace Automattic\Jetpack\Protect_Status;
 
 use Automattic\Jetpack\Current_Plan;
 
@@ -81,7 +81,7 @@ class Plan {
 
 		return new \WP_Error(
 			'failed_to_fetch_data',
-			esc_html__( 'Unable to fetch the requested data.', 'jetpack-protect' ),
+			esc_html__( 'Unable to fetch the requested data.', 'jetpack-protect-status' ),
 			array(
 				'status'  => $response_code,
 				'request' => $wpcom_request,

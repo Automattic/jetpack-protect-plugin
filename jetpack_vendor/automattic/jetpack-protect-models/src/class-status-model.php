@@ -2,10 +2,10 @@
 /**
  * Model class for Protect status report data.
  *
- * @package automattic/jetpack-protect-plugin
+ * @package automattic/jetpack-protect-models
  */
 
-namespace Automattic\Jetpack\Protect;
+namespace Automattic\Jetpack\Protect_Models;
 
 /**
  * Model class for the Protect status report data.

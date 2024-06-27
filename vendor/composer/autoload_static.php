@@ -4,7 +4,7 @@
 
 namespace Composer\Autoload;
 
-class ComposerStaticInitc4802e05bbcf59fd3b6350e8d3e5482c_protectⓥ2_2_1_alpha
+class ComposerStaticInitc4802e05bbcf59fd3b6350e8d3e5482c_protectⓥ2_3_0_alpha
 {
     public static $files = array (
         '3773ef3f09c37da5478d578e32b03a4b' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-assets/actions.php',
@@ -144,17 +144,19 @@ class ComposerStaticInitc4802e05bbcf59fd3b6350e8d3e5482c_protectⓥ2_2_1_alpha
         'Automattic\\Jetpack\\Plans' => __DIR__ . '/..' . '/automattic/jetpack-plans/src/class-plans.php',
         'Automattic\\Jetpack\\Plugins_Installer' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-plugins-installer/src/class-plugins-installer.php',
         'Automattic\\Jetpack\\Protect\\Credentials' => __DIR__ . '/../..' . '/src/class-credentials.php',
-        'Automattic\\Jetpack\\Protect\\Extension_Model' => __DIR__ . '/../..' . '/src/models/class-extension-model.php',
         'Automattic\\Jetpack\\Protect\\Onboarding' => __DIR__ . '/../..' . '/src/class-onboarding.php',
-        'Automattic\\Jetpack\\Protect\\Plan' => __DIR__ . '/../..' . '/src/class-plan.php',
-        'Automattic\\Jetpack\\Protect\\Protect_Status' => __DIR__ . '/../..' . '/src/class-protect-status.php',
         'Automattic\\Jetpack\\Protect\\REST_Controller' => __DIR__ . '/../..' . '/src/class-rest-controller.php',
-        'Automattic\\Jetpack\\Protect\\Scan_Status' => __DIR__ . '/../..' . '/src/class-scan-status.php',
         'Automattic\\Jetpack\\Protect\\Site_Health' => __DIR__ . '/../..' . '/src/class-site-health.php',
-        'Automattic\\Jetpack\\Protect\\Status' => __DIR__ . '/../..' . '/src/class-status.php',
-        'Automattic\\Jetpack\\Protect\\Status_Model' => __DIR__ . '/../..' . '/src/models/class-status-model.php',
-        'Automattic\\Jetpack\\Protect\\Threat_Model' => __DIR__ . '/../..' . '/src/models/class-threat-model.php',
         'Automattic\\Jetpack\\Protect\\Threats' => __DIR__ . '/../..' . '/src/class-threats.php',
+        'Automattic\\Jetpack\\Protect_Models' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-protect-models/src/class-protect-models.php',
+        'Automattic\\Jetpack\\Protect_Models\\Extension_Model' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-protect-models/src/class-extension-model.php',
+        'Automattic\\Jetpack\\Protect_Models\\Status_Model' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-protect-models/src/class-status-model.php',
+        'Automattic\\Jetpack\\Protect_Models\\Threat_Model' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-protect-models/src/class-threat-model.php',
+        'Automattic\\Jetpack\\Protect_Status\\Plan' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-protect-status/src/class-plan.php',
+        'Automattic\\Jetpack\\Protect_Status\\Protect_Status' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-protect-status/src/class-protect-status.php',
+        'Automattic\\Jetpack\\Protect_Status\\REST_Controller' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-protect-status/src/class-rest-controller.php',
+        'Automattic\\Jetpack\\Protect_Status\\Scan_Status' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-protect-status/src/class-scan-status.php',
+        'Automattic\\Jetpack\\Protect_Status\\Status' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-protect-status/src/class-status.php',
         'Automattic\\Jetpack\\Redirect' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-redirect/src/class-redirect.php',
         'Automattic\\Jetpack\\Roles' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-roles/src/class-roles.php',
         'Automattic\\Jetpack\\Status' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-status/src/class-status.php',
@@ -257,9 +259,9 @@ class ComposerStaticInitc4802e05bbcf59fd3b6350e8d3e5482c_protectⓥ2_2_1_alpha
     public static function getInitializer(ClassLoader $loader)
     {
         return \Closure::bind(function () use ($loader) {
-            $loader->prefixLengthsPsr4 = ComposerStaticInitc4802e05bbcf59fd3b6350e8d3e5482c_protectⓥ2_2_1_alpha::$prefixLengthsPsr4;
-            $loader->prefixDirsPsr4 = ComposerStaticInitc4802e05bbcf59fd3b6350e8d3e5482c_protectⓥ2_2_1_alpha::$prefixDirsPsr4;
-            $loader->classMap = ComposerStaticInitc4802e05bbcf59fd3b6350e8d3e5482c_protectⓥ2_2_1_alpha::$classMap;
+            $loader->prefixLengthsPsr4 = ComposerStaticInitc4802e05bbcf59fd3b6350e8d3e5482c_protectⓥ2_3_0_alpha::$prefixLengthsPsr4;
+            $loader->prefixDirsPsr4 = ComposerStaticInitc4802e05bbcf59fd3b6350e8d3e5482c_protectⓥ2_3_0_alpha::$prefixDirsPsr4;
+            $loader->classMap = ComposerStaticInitc4802e05bbcf59fd3b6350e8d3e5482c_protectⓥ2_3_0_alpha::$classMap;
 
         }, null, ClassLoader::class);
     }

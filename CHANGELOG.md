@@ -17,6 +17,9 @@ This is an alpha version! The changes listed here are not final.
 - Remove the 'jetpack-identity-crisis' dependency.
 - Updated package dependencies.
 
+### Fixed
+- Fix an issue where the connection error hook was always resetting the notice"
+
 ## 2.2.0 - 2024-05-24
 ### Added
 - Add data to WAF logs and a toggle for users to opt-in to share more data with us if needed. [#36377]

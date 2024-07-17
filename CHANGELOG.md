@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 This is an alpha version! The changes listed here are not final.
 
+### Added
+- Adds dedicated WAF allow and block list toggles
+
 ### Changed
 - Change codebase to use clsx instead of classnames.
 - Ensure in-progress fixer indicator is functional

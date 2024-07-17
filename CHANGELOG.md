@@ -5,7 +5,7 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## 2.3.0-alpha - unreleased
+## 3.0.0-alpha - unreleased
 
 This is an alpha version! The changes listed here are not final.
 
@@ -16,6 +16,9 @@ This is an alpha version! The changes listed here are not final.
 - Protect plugin: Move protect-status functionality into a separate package.
 - Remove the 'jetpack-identity-crisis' dependency.
 - Updated package dependencies.
+
+### Removed
+- General: update WordPress version requirements to WordPress 6.5.
 
 ### Fixed
 - Fix an issue where the connection error hook was always resetting the notice"

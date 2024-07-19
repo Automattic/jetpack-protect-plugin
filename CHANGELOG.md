@@ -19,6 +19,7 @@ This is an alpha version! The changes listed here are not final.
 - Protect plugin: Move protect-status functionality into a separate package.
 - Remove the 'jetpack-identity-crisis' dependency.
 - Updated package dependencies.
+- Update readme.txt
 
 ### Removed
 - General: update WordPress version requirements to WordPress 6.5.

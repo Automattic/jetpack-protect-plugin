@@ -19,7 +19,6 @@ This is an alpha version! The changes listed here are not final.
 - Protect plugin: Move protect-status functionality into a separate package.
 - Remove the 'jetpack-identity-crisis' dependency.
 - Update Auto fix all button message
-- Updated package dependencies.
 - Update readme.txt
 
 ### Removed
@@ -28,6 +27,7 @@ This is an alpha version! The changes listed here are not final.
 ### Fixed
 - Fix an issue where the connection error hook was always resetting the notice"
 - Fixes ThreatFixHeader component title
+- Updated package dependencies.
 
 ## 2.2.0 - 2024-05-24
 ### Added

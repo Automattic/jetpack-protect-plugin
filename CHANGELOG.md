@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Adds dedicated WAF allow and block list toggles
+- Adds global statistics
 
 ### Changed
 - Change codebase to use clsx instead of classnames.

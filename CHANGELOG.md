@@ -29,6 +29,7 @@ This is an alpha version! The changes listed here are not final.
 ### Fixed
 - Fix an issue where the connection error hook was always resetting the notice"
 - Fixes ThreatFixHeader component title
+- Lossless image optimization of images in projects/plugins [subdirectories from a* through social]
 - Updated package dependencies.
 
 ## 2.2.0 - 2024-05-24

@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 - Adds dedicated WAF allow and block list toggles
 - Adds global statistics
 - React 19 compatibility: Making sure useRef includes an argument.
+- Security Scanning: add threats history view
 
 ### Changed
 - Change codebase to use clsx instead of classnames.

@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Adds conditional contact support links
 - Adds dedicated WAF allow and block list toggles
 - Adds global statistics
+- React 19 compatibility: Making sure useRef includes an argument.
 
 ### Changed
 - Change codebase to use clsx instead of classnames.

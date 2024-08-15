@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Updated package dependencies.
 
 ### Fixed
+- Adds a background to the scan progress bar
 - Makes globalStats always accessible
 
 ## 3.0.0-beta - 2024-08-09

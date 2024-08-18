@@ -15,6 +15,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Adds a background to the scan progress bar
+- Disables the unignore threats button when a fixer is in progress
 - Makes globalStats always accessible
 
 ## 3.0.0-beta - 2024-08-09

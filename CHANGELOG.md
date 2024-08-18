@@ -5,6 +5,19 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## 3.0.1-alpha - unreleased
+
+This is an alpha version! The changes listed here are not final.
+
+### Changed
+- Makes allow list settings always accessible
+
+### Fixed
+- Adds a background to the scan progress bar
+- Disables the unignore threats button when a fixer is in progress
+- Improves the manual scan link button loading state
+- Makes globalStats always accessible
+
 ## 3.0.0-beta - 2024-08-09
 ### Added
 - Firewall: add dedicated WAF allow and block list toggles [#38265]

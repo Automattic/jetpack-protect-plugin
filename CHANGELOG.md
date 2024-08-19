@@ -17,6 +17,7 @@ This is an alpha version! The changes listed here are not final.
 - Adds a background to the scan progress bar
 - Disables the unignore threats button when a fixer is in progress
 - Improves the manual scan link button loading state
+- Lossless image optimization for images (should improve performance with no visible changes).
 - Makes globalStats always accessible
 
 ## 3.0.0-beta - 2024-08-09

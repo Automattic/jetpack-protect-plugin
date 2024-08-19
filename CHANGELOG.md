@@ -15,6 +15,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Adds a background to the scan progress bar
+- Delete relevant Protect options on deactivation
 - Disables the unignore threats button when a fixer is in progress
 - Improves the manual scan link button loading state
 - Lossless image optimization for images (should improve performance with no visible changes).

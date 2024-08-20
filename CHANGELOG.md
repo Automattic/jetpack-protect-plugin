@@ -21,6 +21,7 @@ This is an alpha version! The changes listed here are not final.
 - Improves the manual scan link button loading state
 - Lossless image optimization for images (should improve performance with no visible changes).
 - Makes globalStats always accessible
+- Revert recent SVG image optimizations.
 
 ## 3.0.0-beta - 2024-08-09
 ### Added

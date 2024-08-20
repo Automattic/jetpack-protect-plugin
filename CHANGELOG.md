@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Makes allow list settings always accessible
+- Update composer lock file
 - Updated package dependencies.
 
 ### Fixed

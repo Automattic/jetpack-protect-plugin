@@ -5,28 +5,20 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## 3.1.0-alpha - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## 3.0.1 - 2024-09-06
 ### Added
-- Adds threats list pagination
+- Threats List: Add pagination. [#39058]
 
 ### Changed
-- Admin menu: change order of Jetpack sub-menu items
-- Makes allow list settings always accessible
-- Update composer lock file
-- Updated package dependencies.
+- Admin menu: change order of Jetpack sub-menu items. [#39095]
+- Updated package dependencies. [#39176]
 
 ### Fixed
-- Adds a background to the scan progress bar
-- Delete relevant Protect options on deactivation
-- Disables the unignore threats button when a fixer is in progress
-- Fixes the fixedOn prop in the ScanHistoryDetails component
-- Improves the manual scan link button loading state
-- Lossless image optimization for images (should improve performance with no visible changes).
-- Makes globalStats always accessible
-- Revert recent SVG image optimizations.
+- Security Scanning: Adds a background to the scan progress bar. [#38847]
+- General: Delete relevant Protect options on deactivation. [#38815]
+- Auto Fixers: Disable the unignore threats button when a fixer is in progress. [#38898]
+- Security Scanning: Fix the threat fixed on date in the history view. [#39164]
+- General: Improves the manual scan link button loading state. [#38897]
 
 ## 3.0.0-beta - 2024-08-09
 ### Added

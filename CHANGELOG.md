@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Added context to i18n messages "Low", "High", and "Critical".
+- Updated package dependencies.
 
 ## 3.0.2 - 2024-09-06
 ### Changed

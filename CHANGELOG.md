@@ -13,6 +13,9 @@ This is an alpha version! The changes listed here are not final.
 - Added context to i18n messages "Low", "High", and "Critical".
 - Updated package dependencies.
 
+### Fixed
+- Move leading and trailing spaces out of i18n messages.
+
 ## 3.0.2 - 2024-09-06
 ### Changed
 - Internal updates.

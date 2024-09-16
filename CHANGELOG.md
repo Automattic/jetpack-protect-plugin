@@ -5,12 +5,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## 3.0.3-alpha - unreleased
+## 3.1.0-alpha - unreleased
 
 This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Added context to i18n messages "Low", "High", and "Critical".
+- Adds fixer status to the initial state
 - Updated package dependencies.
 
 ### Fixed

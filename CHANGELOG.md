@@ -14,6 +14,9 @@ This is an alpha version! The changes listed here are not final.
 - Adds fixer status to the initial state
 - Updated package dependencies.
 
+### Removed
+- Security Scanning: disabled database threat category
+
 ### Fixed
 - Move leading and trailing spaces out of i18n messages.
 

@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 This is an alpha version! The changes listed here are not final.
 
+### Added
+- Adds handling for long running fixers
+
 ### Changed
 - Added context to i18n messages "Low", "High", and "Critical".
 - Adds fixer status to the initial state

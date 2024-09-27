@@ -28,6 +28,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Move leading and trailing spaces out of i18n messages.
+- My Jetpack: visual update to the GlobalNotice component look better on mobile.
 
 ## 3.0.2 - 2024-09-06
 ### Changed

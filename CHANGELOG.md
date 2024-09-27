@@ -17,6 +17,7 @@ This is an alpha version! The changes listed here are not final.
 - Added context to i18n messages "Low", "High", and "Critical".
 - Adds fixer status to the initial state
 - Firewall: added help text for IP list formatting rules
+- Fixes blockedRequests destructuring fallback
 - Updated package dependencies.
 
 ### Removed

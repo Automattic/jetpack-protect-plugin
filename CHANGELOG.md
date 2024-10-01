@@ -18,6 +18,7 @@ This is an alpha version! The changes listed here are not final.
 - Adds fixer status to the initial state
 - Firewall: added help text for IP list formatting rules
 - Fixes blockedRequests destructuring fallback
+- Fixes lastChecked conversions
 - Reapplies overwritten FirewallSubheading component updates
 - Updated package dependencies.
 

@@ -19,6 +19,7 @@ This is an alpha version! The changes listed here are not final.
 - Firewall: added help text for IP list formatting rules
 - Fixes blockedRequests destructuring fallback
 - Fixes lastChecked conversions
+- Improves optimistic scanning
 - Reapplies overwritten FirewallSubheading component updates
 - Updated package dependencies.
 

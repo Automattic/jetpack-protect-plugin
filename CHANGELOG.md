@@ -21,6 +21,7 @@ This is an alpha version! The changes listed here are not final.
 - Fixes blockedRequests destructuring fallback
 - Fixes lastChecked conversions
 - Improves optimistic scanning
+- Only include `wp-polyfill` as a script dependency when needed.
 - Reapplies overwritten FirewallSubheading component updates
 - Updated package dependencies.
 

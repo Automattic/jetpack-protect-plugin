@@ -25,6 +25,7 @@ This is an alpha version! The changes listed here are not final.
 - Reapplies overwritten FirewallSubheading component updates
 - Updated package dependencies.
 - Use logo component from package
+- Use MarkedLines component from package
 
 ### Removed
 - Connection: Removed deprecated method features_available

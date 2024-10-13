@@ -24,6 +24,7 @@ This is an alpha version! The changes listed here are not final.
 - Only include `wp-polyfill` as a script dependency when needed.
 - Reapplies overwritten FirewallSubheading component updates
 - Updated package dependencies.
+- Use logo component from package
 
 ### Removed
 - Connection: Removed deprecated method features_available

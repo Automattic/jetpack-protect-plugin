@@ -5,37 +5,20 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## 3.1.0-alpha - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## 3.1.0 - 2024-10-15
 ### Added
-- Add DiffViewer component
-- Added WAF StatCards for blocked requests
-- Adds handling for long running fixers
+- Firewall: Adds stat cards showing recent block counts [#35739]
+- Auto-Fixers: Adds handling for long-running fixers [#39301]
 
 ### Changed
-- Added context to i18n messages "Low", "High", and "Critical".
-- Adds fixer status to the initial state
-- Adds handling for FixerStatus error props
-- Firewall: added help text for IP list formatting rules
-- Fixes blockedRequests destructuring fallback
-- Fixes lastChecked conversions
-- Improves optimistic scanning
-- Only include `wp-polyfill` as a script dependency when needed.
-- Reapplies overwritten FirewallSubheading component updates
-- Updated package dependencies.
-- Use logo component from package
-- Use MarkedLines component from package
+- Firewall: added help text for IP list formatting rules [#39448]
+- Updated package dependencies. [#39707]
 
 ### Removed
-- Connection: Removed deprecated method features_available
-- Connection: Removed features_enabled deprecated method
-- Security Scanning: disabled database threat category
+- Security Scanning: disabled database threat category [#39467]
 
 ### Fixed
-- Move leading and trailing spaces out of i18n messages.
-- My Jetpack: visual update to the GlobalNotice component look better on mobile.
+- Minor fixes and improvements.
 
 ## 3.0.2 - 2024-09-06
 ### Changed

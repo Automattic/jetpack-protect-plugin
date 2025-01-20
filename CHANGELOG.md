@@ -18,6 +18,7 @@ This is an alpha version! The changes listed here are not final.
 - Adds and applies a shared Header component
 - Adds threat count to Scan tab
 - Animated the "scan in progress" placeholder image
+- Code: Use function-style exit() and die() with a default status code of 0.
 - Components: Add __nextHasNoMarginBottom to BaseControl-based components, preventing deprecation notices.
 - General: indicate compatibility with the upcoming version of WordPress - 6.7.
 - Protect plugin: use types from @automattic/jetpack-scan package.

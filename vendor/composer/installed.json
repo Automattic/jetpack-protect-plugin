@@ -7,7 +7,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-a8c-mc-stats",
-                "reference": "79a70ab1e481d8fcc99fdadf49312efb4ac366c6"
+                "reference": "40b0f3521add0c9829aa74572c79a7c5af7ec081"
             },
             "require": {
                 "php": ">=7.2"
@@ -58,12 +58,12 @@
         },
         {
             "name": "automattic/jetpack-admin-ui",
-            "version": "0.5.2-alpha.1738230497",
-            "version_normalized": "0.5.2.0-alpha1738230497",
+            "version": "0.5.2-alpha.1738336718",
+            "version_normalized": "0.5.2.0-alpha1738336718",
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-admin-ui",
-                "reference": "ac139eb437b3f4969a7548951efd4c5768e6d07a"
+                "reference": "7ce6dfed4ca88b65f331fef719446ea6c12c69fe"
             },
             "require": {
                 "php": ">=7.2"
@@ -71,7 +71,7 @@
             "require-dev": {
                 "automattic/jetpack-changelogger": "^5.1.0",
                 "automattic/jetpack-logo": "^3.0.0",
-                "automattic/wordbless": "^0.4.2",
+                "automattic/jetpack-test-environment": "@dev",
                 "yoast/phpunit-polyfills": "^1.1.1"
             },
             "suggest": {
@@ -107,12 +107,6 @@
                 ],
                 "test-php": [
                     "@composer phpunit"
-                ],
-                "post-install-cmd": [
-                    "WorDBless\\Composer\\InstallDropin::copy"
-                ],
-                "post-update-cmd": [
-                    "WorDBless\\Composer\\InstallDropin::copy"
                 ]
             },
             "license": [
@@ -131,7 +125,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-assets",
-                "reference": "b8e01f55b04174ef3b703ab93af31592682abb3a"
+                "reference": "743cedd4cbadd7ad19cc07d8c9df0e2617d7081b"
             },
             "require": {
                 "automattic/jetpack-constants": "^3.0.1",
@@ -203,7 +197,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-autoloader",
-                "reference": "48feba0b522c66ea72bd0f6796db259ab76eb538"
+                "reference": "a16e5a9b2fed24be122041e2c6eae8b05d05f52c"
             },
             "require": {
                 "composer-plugin-api": "^2.2",
@@ -269,19 +263,19 @@
         },
         {
             "name": "automattic/jetpack-backup-helper-script-manager",
-            "version": "0.3.1",
-            "version_normalized": "0.3.1.0",
+            "version": "0.3.2-alpha.1738336718",
+            "version_normalized": "0.3.2.0-alpha1738336718",
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-backup-helper-script-manager",
-                "reference": "ea59b9b91a4937c2561a6bec18109d71bab46122"
+                "reference": "bc52fa501d619553030381dc9047f86ecd1e43b0"
             },
             "require": {
                 "php": ">=7.2"
             },
             "require-dev": {
                 "automattic/jetpack-changelogger": "^5.1.0",
-                "automattic/wordbless": "^0.4.2",
+                "automattic/jetpack-test-environment": "@dev",
                 "yoast/phpunit-polyfills": "^1.1.1"
             },
             "suggest": {
@@ -313,12 +307,6 @@
                 ],
                 "test-php": [
                     "@composer phpunit"
-                ],
-                "post-install-cmd": [
-                    "WorDBless\\Composer\\InstallDropin::copy"
-                ],
-                "post-update-cmd": [
-                    "WorDBless\\Composer\\InstallDropin::copy"
                 ]
             },
             "license": [
@@ -337,7 +325,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-boost-core",
-                "reference": "b27a83a4ca5b5eeebf971917e7bb8bf13bf089ee"
+                "reference": "0f9b26be8f063fb7f6b4345c7495184c2f597dd5"
             },
             "require": {
                 "automattic/jetpack-connection": "^6.3.2-alpha",
@@ -395,7 +383,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-boost-speed-score",
-                "reference": "9f6595565f5f49efe3b5d6c0c9b58f719e24b664"
+                "reference": "b5e4dc20548b90469427e8334d76d40998353e46"
             },
             "require": {
                 "automattic/jetpack-boost-core": "^0.3.4",
@@ -462,7 +450,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-composer-plugin",
-                "reference": "c3a60cd0894a03143f09faf154f56b9445cd4522"
+                "reference": "abb3a42132d30da2f85bee6ebdff93ec5500d5cb"
             },
             "require": {
                 "composer-plugin-api": "^2.2",
@@ -525,7 +513,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-config",
-                "reference": "24dc3c9cc7c5046239673ea8cb452ddd896b0fc9"
+                "reference": "17f6a4c97bd777633609d89f50c8b7bd8dc02315"
             },
             "require": {
                 "php": ">=7.2"
@@ -595,12 +583,12 @@
         },
         {
             "name": "automattic/jetpack-connection",
-            "version": "6.3.2-alpha.1737997918",
-            "version_normalized": "6.3.2.0-alpha1737997918",
+            "version": "6.3.2-alpha.1738336718",
+            "version_normalized": "6.3.2.0-alpha1738336718",
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-connection",
-                "reference": "73bbcf52616eb23640ad256fabb2684607324009"
+                "reference": "fab98d9e14d17a85a2be0be0ada50b3db77c0ec2"
             },
             "require": {
                 "automattic/jetpack-a8c-mc-stats": "^3.0.0",
@@ -614,7 +602,7 @@
             },
             "require-dev": {
                 "automattic/jetpack-changelogger": "^5.1.0",
-                "automattic/wordbless": "^0.4.2",
+                "automattic/jetpack-test-environment": "@dev",
                 "brain/monkey": "^2.6.2",
                 "yoast/phpunit-polyfills": "^1.1.1"
             },
@@ -664,12 +652,6 @@
                 "phpunit": [
                     "./vendor/phpunit/phpunit/phpunit --colors=always"
                 ],
-                "post-install-cmd": [
-                    "WorDBless\\Composer\\InstallDropin::copy"
-                ],
-                "post-update-cmd": [
-                    "WorDBless\\Composer\\InstallDropin::copy"
-                ],
                 "test-coverage": [
                     "php -dpcov.directory=. ./vendor/bin/phpunit --coverage-php \"$COVERAGE_DIR/php.cov\""
                 ],
@@ -693,7 +675,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-constants",
-                "reference": "682183afd4fa885c963a90303c3551e6a7b87c18"
+                "reference": "a4b9dd7ef6bab004d7a85d2085c63884a90937dc"
             },
             "require": {
                 "php": ">=7.2"
@@ -750,7 +732,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-device-detection",
-                "reference": "c599cdb7b595e7d25246a04a9fba182a6b8f889e"
+                "reference": "93a84f26bbed6a6b0f5a779ca33bc426f0d4d33e"
             },
             "require": {
                 "php": ">=7.2"
@@ -806,7 +788,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-explat",
-                "reference": "222c710eb9f4cbe4babe030aedb295ba684eed38"
+                "reference": "b41a6565c8250f0529694cbd5a69ecbd2da25f2a"
             },
             "require": {
                 "automattic/jetpack-connection": "^6.3.2-alpha",
@@ -884,7 +866,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-ip",
-                "reference": "02b7ee5caf138221656d36d021e031b4a03bdd46"
+                "reference": "f123ef9b0213233ba58c98409a660e79f9403ab2"
             },
             "require": {
                 "php": ">=7.2"
@@ -945,7 +927,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-jitm",
-                "reference": "192aa15c65075c946389ca6d4f4fa4267621d508"
+                "reference": "2d4c0f25851382e171ba64323dd72a818a3752f0"
             },
             "require": {
                 "automattic/jetpack-a8c-mc-stats": "^3.0.0",
@@ -1018,12 +1000,12 @@
         },
         {
             "name": "automattic/jetpack-licensing",
-            "version": "3.0.3",
-            "version_normalized": "3.0.3.0",
+            "version": "3.0.4-alpha.1738336718",
+            "version_normalized": "3.0.4.0-alpha1738336718",
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-licensing",
-                "reference": "77073b20093b1ef0beb1bd41cf13927e96d7437f"
+                "reference": "5f1443c8fdb430f488a9417bfca9d9825aa946c4"
             },
             "require": {
                 "automattic/jetpack-connection": "^6.3.2-alpha",
@@ -1031,7 +1013,7 @@
             },
             "require-dev": {
                 "automattic/jetpack-changelogger": "^5.1.0",
-                "automattic/wordbless": "^0.4.2",
+                "automattic/jetpack-test-environment": "@dev",
                 "yoast/phpunit-polyfills": "^1.1.1"
             },
             "suggest": {
@@ -1059,12 +1041,6 @@
                 "phpunit": [
                     "./vendor/phpunit/phpunit/phpunit --colors=always"
                 ],
-                "post-install-cmd": [
-                    "WorDBless\\Composer\\InstallDropin::copy"
-                ],
-                "post-update-cmd": [
-                    "WorDBless\\Composer\\InstallDropin::copy"
-                ],
                 "test-coverage": [
                     "php -dpcov.directory=. ./vendor/bin/phpunit --coverage-php \"$COVERAGE_DIR/php.cov\""
                 ],
@@ -1088,7 +1064,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-logo",
-                "reference": "2deb7f103dd0372dad8a79d0f33348c2873b5022"
+                "reference": "0b3900747e9874d841034e0323a9926d684d51a8"
             },
             "require": {
                 "php": ">=7.2"
@@ -1139,12 +1115,12 @@
         },
         {
             "name": "automattic/jetpack-my-jetpack",
-            "version": "5.4.1-alpha.1738331609",
-            "version_normalized": "5.4.1.0-alpha1738331609",
+            "version": "5.4.1-alpha.1738336718",
+            "version_normalized": "5.4.1.0-alpha1738336718",
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-my-jetpack",
-                "reference": "19716b7a5834cb27e7209c8195a4a632f38766cb"
+                "reference": "55bf010e110eeaa93252d6fab02a8075d83f945d"
             },
             "require": {
                 "automattic/jetpack-admin-ui": "^0.5.2-alpha",
@@ -1154,10 +1130,10 @@
                 "automattic/jetpack-constants": "^3.0.1",
                 "automattic/jetpack-explat": "^0.2.5-alpha",
                 "automattic/jetpack-jitm": "^4.0.5-alpha",
-                "automattic/jetpack-licensing": "^3.0.3",
-                "automattic/jetpack-plans": "^0.5.1",
+                "automattic/jetpack-licensing": "^3.0.4-alpha",
+                "automattic/jetpack-plans": "^0.5.2-alpha",
                 "automattic/jetpack-plugins-installer": "^0.5.0",
-                "automattic/jetpack-protect-status": "^0.4.2",
+                "automattic/jetpack-protect-status": "^0.4.3-alpha",
                 "automattic/jetpack-redirect": "^3.0.1",
                 "automattic/jetpack-status": "^5.0.2",
                 "automattic/jetpack-sync": "^4.6.0-alpha",
@@ -1165,7 +1141,7 @@
             },
             "require-dev": {
                 "automattic/jetpack-changelogger": "^5.1.0",
-                "automattic/wordbless": "^0.4.2",
+                "automattic/jetpack-test-environment": "@dev",
                 "yoast/phpunit-polyfills": "^1.1.1"
             },
             "suggest": {
@@ -1225,12 +1201,6 @@
                 "watch": [
                     "Composer\\Config::disableProcessTimeout",
                     "pnpm run watch"
-                ],
-                "post-install-cmd": [
-                    "WorDBless\\Composer\\InstallDropin::copy"
-                ],
-                "post-update-cmd": [
-                    "WorDBless\\Composer\\InstallDropin::copy"
                 ]
             },
             "license": [
@@ -1244,19 +1214,19 @@
         },
         {
             "name": "automattic/jetpack-password-checker",
-            "version": "0.4.1",
-            "version_normalized": "0.4.1.0",
+            "version": "0.4.2-alpha.1738336718",
+            "version_normalized": "0.4.2.0-alpha1738336718",
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-password-checker",
-                "reference": "34b085750b37c87d440d616b92a065b8c19917f3"
+                "reference": "ac305f4ac4cfc102747992d11c0b66bed6cfffd0"
             },
             "require": {
                 "php": ">=7.2"
             },
             "require-dev": {
                 "automattic/jetpack-changelogger": "^5.1.0",
-                "automattic/wordbless": "^0.4.2",
+                "automattic/jetpack-test-environment": "@dev",
                 "yoast/phpunit-polyfills": "^1.1.1"
             },
             "suggest": {
@@ -1289,12 +1259,6 @@
                 ],
                 "test-php": [
                     "@composer phpunit"
-                ],
-                "post-install-cmd": [
-                    "WorDBless\\Composer\\InstallDropin::copy"
-                ],
-                "post-update-cmd": [
-                    "WorDBless\\Composer\\InstallDropin::copy"
                 ]
             },
             "license": [
@@ -1308,12 +1272,12 @@
         },
         {
             "name": "automattic/jetpack-plans",
-            "version": "0.5.1",
-            "version_normalized": "0.5.1.0",
+            "version": "0.5.2-alpha.1738336718",
+            "version_normalized": "0.5.2.0-alpha1738336718",
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-plans",
-                "reference": "7590f12b7c36ed3228809099fb7b7142632e4943"
+                "reference": "a11711487850cff48a4c649cbd2856fbda1d0a42"
             },
             "require": {
                 "automattic/jetpack-connection": "^6.3.2-alpha",
@@ -1322,7 +1286,7 @@
             "require-dev": {
                 "automattic/jetpack-changelogger": "^5.1.0",
                 "automattic/jetpack-status": "^5.0.2",
-                "automattic/wordbless": "^0.4.2",
+                "automattic/jetpack-test-environment": "@dev",
                 "yoast/phpunit-polyfills": "^1.1.1"
             },
             "suggest": {
@@ -1355,12 +1319,6 @@
                 "test-php": [
                     "@composer phpunit"
                 ],
-                "post-install-cmd": [
-                    "WorDBless\\Composer\\InstallDropin::copy"
-                ],
-                "post-update-cmd": [
-                    "WorDBless\\Composer\\InstallDropin::copy"
-                ],
                 "build-production": [
                     "echo 'Add your build step to composer.json, please!'"
                 ],
@@ -1384,7 +1342,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-plugins-installer",
-                "reference": "382d4a31304eccf84c9bb24615f8d75daf49d477"
+                "reference": "f7b1b5cc84498028f2359e5e7a491cdcf20ebe40"
             },
             "require": {
                 "automattic/jetpack-a8c-mc-stats": "^3.0.0",
@@ -1438,19 +1396,19 @@
         },
         {
             "name": "automattic/jetpack-protect-models",
-            "version": "0.4.1",
-            "version_normalized": "0.4.1.0",
+            "version": "0.4.2-alpha.1738336718",
+            "version_normalized": "0.4.2.0-alpha1738336718",
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-protect-models",
-                "reference": "d01022e0a4e521592ee7584ade50e8b4739da836"
+                "reference": "6c0e9fe3db501fd6ba9c8abf711e618c8321912e"
             },
             "require": {
                 "php": ">=7.2"
             },
             "require-dev": {
                 "automattic/jetpack-changelogger": "^5.1.0",
-                "automattic/wordbless": "^0.4.2",
+                "automattic/jetpack-test-environment": "@dev",
                 "yoast/phpunit-polyfills": "^1.1.1"
             },
             "suggest": {
@@ -1492,12 +1450,6 @@
                 ],
                 "test-php": [
                     "@composer phpunit"
-                ],
-                "post-install-cmd": [
-                    "WorDBless\\Composer\\InstallDropin::copy"
-                ],
-                "post-update-cmd": [
-                    "WorDBless\\Composer\\InstallDropin::copy"
                 ]
             },
             "license": [
@@ -1511,24 +1463,24 @@
         },
         {
             "name": "automattic/jetpack-protect-status",
-            "version": "0.4.2",
-            "version_normalized": "0.4.2.0",
+            "version": "0.4.3-alpha.1738336718",
+            "version_normalized": "0.4.3.0-alpha1738336718",
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-protect-status",
-                "reference": "cceafa8755da3f0446f4fa4009ee62d9523d9316"
+                "reference": "d1d47b9844bab66ff33dc4daa7abc0bb50fa85fb"
             },
             "require": {
                 "automattic/jetpack-connection": "^6.3.2-alpha",
-                "automattic/jetpack-plans": "^0.5.1",
+                "automattic/jetpack-plans": "^0.5.2-alpha",
                 "automattic/jetpack-plugins-installer": "^0.5.0",
-                "automattic/jetpack-protect-models": "^0.4.1",
+                "automattic/jetpack-protect-models": "^0.4.2-alpha",
                 "automattic/jetpack-sync": "^4.6.0-alpha",
                 "php": ">=7.2"
             },
             "require-dev": {
                 "automattic/jetpack-changelogger": "^5.1.0",
-                "automattic/wordbless": "^0.4.2",
+                "automattic/jetpack-test-environment": "@dev",
                 "yoast/phpunit-polyfills": "^1.1.1"
             },
             "suggest": {
@@ -1565,12 +1517,6 @@
                 "phpunit": [
                     "./vendor/phpunit/phpunit/phpunit --colors=always"
                 ],
-                "post-install-cmd": [
-                    "WorDBless\\Composer\\InstallDropin::copy"
-                ],
-                "post-update-cmd": [
-                    "WorDBless\\Composer\\InstallDropin::copy"
-                ],
                 "test-coverage": [
                     "php -dpcov.directory=. ./vendor/bin/phpunit --coverage-php \"$COVERAGE_DIR/php.cov\""
                 ],
@@ -1594,7 +1540,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-redirect",
-                "reference": "79608c5b75bb7b6b38f19921e258f02cea55fd5f"
+                "reference": "5f413db8d01c7ee6d533ed0fca932436979f6c09"
             },
             "require": {
                 "automattic/jetpack-status": "^5.0.2",
@@ -1652,7 +1598,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-roles",
-                "reference": "b970eb6738a674c865b889e42bbebb34e13e7dd1"
+                "reference": "08d7d3ec3c633930eb251ceb93a3207d5ceb14a2"
             },
             "require": {
                 "php": ">=7.2"
@@ -1709,7 +1655,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-status",
-                "reference": "6498861553efe54b0e403133fc3b8df8e8c50d86"
+                "reference": "7f395fc01e775159feba9fd4ba1494694b361420"
             },
             "require": {
                 "automattic/jetpack-constants": "^3.0.1",
@@ -1771,18 +1717,18 @@
         },
         {
             "name": "automattic/jetpack-sync",
-            "version": "4.6.0-alpha.1738231842",
-            "version_normalized": "4.6.0.0-alpha1738231842",
+            "version": "4.6.0-alpha.1738336718",
+            "version_normalized": "4.6.0.0-alpha1738336718",
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-sync",
-                "reference": "d3f99e6764d0b4ad2fb60894211cc2be7db84529"
+                "reference": "3ff649b7c9aba95ba2bed75aba3d065c6806b765"
             },
             "require": {
                 "automattic/jetpack-connection": "^6.3.2-alpha",
                 "automattic/jetpack-constants": "^3.0.1",
                 "automattic/jetpack-ip": "^0.4.1",
-                "automattic/jetpack-password-checker": "^0.4.1",
+                "automattic/jetpack-password-checker": "^0.4.2-alpha",
                 "automattic/jetpack-roles": "^3.0.1",
                 "automattic/jetpack-status": "^5.0.2",
                 "php": ">=7.2"
@@ -1790,8 +1736,8 @@
             "require-dev": {
                 "automattic/jetpack-changelogger": "^5.1.0",
                 "automattic/jetpack-search": "@dev",
-                "automattic/jetpack-waf": "^0.23.2",
-                "automattic/wordbless": "^0.4.2",
+                "automattic/jetpack-test-environment": "@dev",
+                "automattic/jetpack-waf": "^0.23.3-alpha",
                 "yoast/phpunit-polyfills": "^1.1.1"
             },
             "suggest": {
@@ -1833,12 +1779,6 @@
                 ],
                 "test-php": [
                     "@composer phpunit"
-                ],
-                "post-install-cmd": [
-                    "WorDBless\\Composer\\InstallDropin::copy"
-                ],
-                "post-update-cmd": [
-                    "WorDBless\\Composer\\InstallDropin::copy"
                 ]
             },
             "license": [
@@ -1852,21 +1792,21 @@
         },
         {
             "name": "automattic/jetpack-transport-helper",
-            "version": "0.3.0",
-            "version_normalized": "0.3.0.0",
+            "version": "0.3.1-alpha.1738336718",
+            "version_normalized": "0.3.1.0-alpha1738336718",
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-transport-helper",
-                "reference": "108bcde4d544fdfc5819d797d69e250a0d028037"
+                "reference": "c9baade074880f5ef9adc01088cdf5b9fc9b4de6"
             },
             "require": {
-                "automattic/jetpack-backup-helper-script-manager": "^0.3.1",
+                "automattic/jetpack-backup-helper-script-manager": "^0.3.2-alpha",
                 "automattic/jetpack-connection": "^6.3.2-alpha",
                 "php": ">=7.2"
             },
             "require-dev": {
                 "automattic/jetpack-changelogger": "^5.1.0",
-                "automattic/wordbless": "^0.4.2",
+                "automattic/jetpack-test-environment": "@dev",
                 "yoast/phpunit-polyfills": "^1.1.1"
             },
             "suggest": {
@@ -1911,12 +1851,6 @@
                 ],
                 "build-development": [
                     "echo 'Add your build step to composer.json, please!'"
-                ],
-                "post-install-cmd": [
-                    "WorDBless\\Composer\\InstallDropin::copy"
-                ],
-                "post-update-cmd": [
-                    "WorDBless\\Composer\\InstallDropin::copy"
                 ]
             },
             "license": [
@@ -1930,12 +1864,12 @@
         },
         {
             "name": "automattic/jetpack-waf",
-            "version": "0.23.2",
-            "version_normalized": "0.23.2.0",
+            "version": "0.23.3-alpha.1738336718",
+            "version_normalized": "0.23.3.0-alpha1738336718",
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-waf",
-                "reference": "a0cea8e5e843599bd7b25e1d01a513653f9a9ec0"
+                "reference": "9754e95e557d64185c80cfa648ff1dbfb6b401cc"
             },
             "require": {
                 "automattic/jetpack-connection": "^6.3.2-alpha",
@@ -1947,7 +1881,7 @@
             },
             "require-dev": {
                 "automattic/jetpack-changelogger": "^5.1.0",
-                "automattic/wordbless": "^0.4.2",
+                "automattic/jetpack-test-environment": "@dev",
                 "yoast/phpunit-polyfills": "^1.1.1"
             },
             "suggest": {
@@ -1978,12 +1912,6 @@
                 "phpunit": [
                     "./vendor/phpunit/phpunit/phpunit --configuration tests/php/integration/phpunit.xml.dist --colors=always",
                     "./vendor/phpunit/phpunit/phpunit --configuration tests/php/unit/phpunit.xml.dist --colors=always"
-                ],
-                "post-install-cmd": [
-                    "WorDBless\\Composer\\InstallDropin::copy"
-                ],
-                "post-update-cmd": [
-                    "WorDBless\\Composer\\InstallDropin::copy"
                 ],
                 "test-coverage": [
                     "tests/action-test-coverage.sh"

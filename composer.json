@@ -16,7 +16,7 @@
 		"automattic/jetpack-transport-helper": "^0.3.1-alpha",
 		"automattic/jetpack-plans": "^0.5.2-alpha",
 		"automattic/jetpack-waf": "^0.23.3-alpha",
-		"automattic/jetpack-status": "^5.0.2",
+		"automattic/jetpack-status": "^5.0.3-alpha",
 		"automattic/jetpack-protect-status": "^0.4.3-alpha"
 	},
 	"require-dev": {

@@ -34,6 +34,9 @@ This is an alpha version! The changes listed here are not final.
 - General: Update minimum PHP version to 7.2.
 - General: Update minimum WordPress version to 6.6.
 
+### Fixed
+- Code: Remove extra params on function calls.
+
 ## 3.1.1 - 2024-10-17
 ### Changed
 - Firewall: Fix backwards compatibility for sites running standalone mode with outdated packages autoloaded.

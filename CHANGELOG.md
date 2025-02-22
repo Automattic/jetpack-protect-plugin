@@ -35,6 +35,7 @@ This is an alpha version! The changes listed here are not final.
 - Use ToggleControl component from @automattic/jetpack-components.
 
 ### Removed
+- Firewall: removed "new" badge from tab.
 - General: Update minimum PHP version to 7.2.
 - General: Update minimum WordPress version to 6.6.
 

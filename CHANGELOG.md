@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Added phan ignore doc blocks for use of deprecated properties.
+- Connection: Disconnecting a connection owner account will disconnect all other users first.
 - Enable test coverage.
 - jetpack-components: Export the getRedirectUrl function with subpath
 - My Jetpack: update the recommendations section in My Jetpack to include a slider interaction for the cards.

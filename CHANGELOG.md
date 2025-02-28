@@ -42,6 +42,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Code: Remove extra params on function calls.
+- Upgrading: prevent case where plan caching causes short delay in upgrading of scan data source after upgrading to a paid plan.
 
 ## 3.1.1 - 2024-10-17
 ### Changed

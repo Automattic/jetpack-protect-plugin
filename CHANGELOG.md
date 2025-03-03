@@ -32,6 +32,7 @@ This is an alpha version! The changes listed here are not final.
 - Updated dependencies.
 - Updated My Jetpack my-jetpack-v1/site/products route to pass a "?products" query param.
 - Updated package dependencies.
+- Update package dependencies.
 - Update the unowned section from a product grid to a product list
 - Use ToggleControl component from @automattic/jetpack-components.
 

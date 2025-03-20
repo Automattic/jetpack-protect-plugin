@@ -15,6 +15,7 @@ This is an alpha version! The changes listed here are not final.
 - Connection: Disconnecting a connection owner account will disconnect all other users first.
 - Enable test coverage.
 - jetpack-components: Export the getRedirectUrl function with subpath
+- My Jetpack: An onboarding screen has been implemented to provide clear, step-by-step instructions for new users connecting to Jetpack.
 - My Jetpack: update the recommendations section in My Jetpack to include a slider interaction for the cards.
 
 ### Changed

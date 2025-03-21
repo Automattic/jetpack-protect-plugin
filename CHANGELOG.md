@@ -12,6 +12,7 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Add E2E tests.
 - Added phan ignore doc blocks for use of deprecated properties.
+- Additional E2E test coverage.
 - Connection: Disconnecting a connection owner account will disconnect all other users first.
 - Enable test coverage.
 - jetpack-components: Export the getRedirectUrl function with subpath

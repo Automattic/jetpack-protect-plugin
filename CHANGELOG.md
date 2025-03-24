@@ -5,8 +5,18 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## 4.0.0 - 2025-03-24
+## 4.1.0-alpha - unreleased
 
+This is an alpha version! The changes listed here are not final.
+
+### Added
+- Adds the Account Protection module toggle
+
+### Changed
+- Uses jetpack-config package for Account Protection initialization
+- Uses jetpack-logo package for Account Protection logos
+
+## 4.0.0 - 2025-03-24
 ### Changed
 - Scanner: Add threat count to tab. [#40056]
 - Scanner: Animate the "scan in progress" placeholder image. [#39825]

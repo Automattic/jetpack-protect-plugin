@@ -5,48 +5,18 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## 4.0.0-alpha - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
-### Added
-- Add E2E tests.
-- Added phan ignore doc blocks for use of deprecated properties.
-- Additional E2E test coverage.
-- Connection: Disconnecting a connection owner account will disconnect all other users first.
-- Enable test coverage.
-- jetpack-components: Export the getRedirectUrl function with subpath
-- My Jetpack: An onboarding screen has been implemented to provide clear, step-by-step instructions for new users connecting to Jetpack.
-- My Jetpack: update the recommendations section in My Jetpack to include a slider interaction for the cards.
+## 4.0.0 - 2025-03-24
 
 ### Changed
-- Adds and applies a shared Header component
-- Adds threat count to Scan tab
-- Animated the "scan in progress" placeholder image
-- Code: Use function-style exit() and die() with a default status code of 0.
-- Components: Add __nextHasNoMarginBottom to BaseControl-based components, preventing deprecation notices.
-- Connection: Display connection status on Users page independent of the SSO module.
-- General: indicate compatibility with the upcoming version of WordPress - 6.7.
-- Protect plugin: use types from @automattic/jetpack-scan package.
-- Replaces custom IconTooltip in favour of js-packages/components version
-- Resolved an issue where revoked licenses were incorrectly treated as unattached. This caused users to be redirected to the license activation page after site connection, even when unattached licenses were not valid for activation.
-- Social | Changed My Jetpack CTA for Social from "Learn more" to "Activate"
-- Updated composer.lock
-- Updated dependencies.
-- Updated My Jetpack my-jetpack-v1/site/products route to pass a "?products" query param.
-- Updated package dependencies.
-- Update package dependencies.
-- Update the unowned section from a product grid to a product list
-- Use ToggleControl component from @automattic/jetpack-components.
+- Scanner: Add threat count to tab. [#40056]
+- Scanner: Animate the "scan in progress" placeholder image. [#39825]
+- General: Indicate compatibility with WordPress 6.7. [#39786]
+- General: Update package dependencies. [#42511]
 
 ### Removed
-- Firewall: removed "new" badge from tab.
-- General: Update minimum PHP version to 7.2.
-- General: Update minimum WordPress version to 6.6.
-
-### Fixed
-- Code: Remove extra params on function calls.
-- Upgrading: prevent case where plan caching causes short delay in upgrading of scan data source after upgrading to a paid plan.
+- Firewall: Remove "new" badge from tab. [#41902]
+- General: Update minimum PHP version to 7.2. [#40147]
+- General: Update minimum WordPress version to 6.6. [#40146]
 
 ## 3.1.1 - 2024-10-17
 ### Changed

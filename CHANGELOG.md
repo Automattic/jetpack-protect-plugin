@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Adds the Account Protection module toggle
 
 ### Changed
+- Connection: Allow pre-selected login providers
 - Uses jetpack-config package for Account Protection initialization
 - Uses jetpack-logo package for Account Protection logos
 

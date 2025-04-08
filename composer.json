@@ -18,7 +18,7 @@
 		"automattic/jetpack-waf": "^0.24.1",
 		"automattic/jetpack-status": "^5.1.2-alpha",
 		"automattic/jetpack-protect-status": "^0.5.9",
-		"automattic/jetpack-account-protection": "^0.2.1"
+		"automattic/jetpack-account-protection": "^0.2.2-alpha"
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "^3.0.0",

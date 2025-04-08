@@ -24,6 +24,7 @@ This is an alpha version! The changes listed here are not final.
 - Use threat components from the scan package
 
 ### Fixed
+- Code: Update stylesheets to use hex instead of named colors.
 - Code: Update stylesheets to use WordPress font styles.
 
 ## 4.0.0 - 2025-03-24

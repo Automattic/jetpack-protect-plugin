@@ -5,7 +5,7 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## 4.1.0-alpha - unreleased
+## 5.0.0-alpha - unreleased
 
 This is an alpha version! The changes listed here are not final.
 
@@ -24,6 +24,9 @@ This is an alpha version! The changes listed here are not final.
 - Uses jetpack-config package for Account Protection initialization
 - Uses jetpack-logo package for Account Protection logos
 - Use threat components from the scan package
+
+### Removed
+- General: Update minimum WordPress version to 6.7.
 
 ### Fixed
 - Code: Update stylesheets to use hex instead of named colors.

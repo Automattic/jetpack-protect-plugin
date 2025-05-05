@@ -33,6 +33,7 @@ This is an alpha version! The changes listed here are not final.
 ### Fixed
 - Code: Update stylesheets to use hex instead of named colors.
 - Code: Update stylesheets to use WordPress font styles.
+- JS Packages: Decrease CSS priority of global styles to prevent them from applying within the editor
 - Linting: Address final rules in WordPress Stylelint config.
 - Linting: Do additional stylesheet cleanup.
 - Linting: Fix more Stylelint violations.

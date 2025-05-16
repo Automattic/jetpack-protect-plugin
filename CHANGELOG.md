@@ -21,6 +21,7 @@ This is an alpha version! The changes listed here are not final.
 - Connection: Allow pre-selected login providers
 - General: indicate compatibility with the upcoming version of WordPress - 6.8.
 - jetpack-assets now requires jetpack-status so updating composer lock files.
+- My Jetpack: Optimize the images for onboarding slider for faster page load.
 - My Jetpack: Updated the onboarding UI, changing it to a single button
 - Update package dependencies.
 - Uses jetpack-config package for Account Protection initialization

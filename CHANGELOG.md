@@ -19,6 +19,7 @@ This is an alpha version! The changes listed here are not final.
 - Code: First pass of style coding standards.
 - Components: Changed deprecated ButtonGroup component to Flex.
 - Connection: Allow pre-selected login providers
+- E2E Tests: Update config file encryption algorithm.
 - General: indicate compatibility with the upcoming version of WordPress - 6.8.
 - jetpack-assets now requires jetpack-status so updating composer lock files.
 - My Jetpack: Optimize the images for onboarding slider for faster page load.

@@ -33,6 +33,7 @@ This is an alpha version! The changes listed here are not final.
 - General: Update minimum WordPress version to 6.7.
 
 ### Fixed
+- Add missing variables to Tanstack queryKey.
 - Code: Update stylesheets to use hex instead of named colors.
 - Code: Update stylesheets to use WordPress font styles.
 - JS Packages: Decrease CSS priority of global styles to prevent them from applying within the editor

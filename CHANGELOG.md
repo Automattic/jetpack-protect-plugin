@@ -42,6 +42,7 @@ This is an alpha version! The changes listed here are not final.
 - Linting: Fix more Stylelint violations.
 - Linting: Use double colon notation for pseudo-element selectors.
 - My Jetpack: Fixed Onboarding UI responsiveness at 600px.
+- My Jetpack: Fix readability of license activation button on hover.
 - My Jetpack: Fix social login getting stuck when email input not empty
 
 ## 4.0.0 - 2025-03-24

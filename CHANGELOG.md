@@ -22,6 +22,7 @@ This is an alpha version! The changes listed here are not final.
 - E2E Tests: Update config file encryption algorithm.
 - General: indicate compatibility with the upcoming version of WordPress - 6.8.
 - jetpack-assets now requires jetpack-status so updating composer lock files.
+- My Jetpack: Hide backup failure notice when backups are deactivated.
 - My Jetpack: Optimize the images for onboarding slider for faster page load.
 - My Jetpack: Updated the onboarding UI, changing it to a single button
 - Update package dependencies.

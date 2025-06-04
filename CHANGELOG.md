@@ -46,6 +46,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Fixed Onboarding UI responsiveness at 600px.
 - My Jetpack: Fix readability of license activation button on hover.
 - My Jetpack: Fix social login getting stuck when email input not empty
+- Protect: Clarified language in the plugin readme to clarify malware and vulnerability scanning.
 
 ## 4.0.0 - 2025-03-24
 ### Changed

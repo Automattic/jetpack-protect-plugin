@@ -10,14 +10,14 @@
 		"automattic/jetpack-autoloader": "^5.0.7",
 		"automattic/jetpack-composer-plugin": "^4.0.5",
 		"automattic/jetpack-config": "^3.1.0",
-		"automattic/jetpack-my-jetpack": "^5.16.0-alpha",
+		"automattic/jetpack-my-jetpack": "^5.16.0",
 		"automattic/jetpack-plugins-installer": "^0.5.5",
 		"automattic/jetpack-sync": "^4.14.1",
 		"automattic/jetpack-transport-helper": "^0.3.2",
 		"automattic/jetpack-plans": "^0.8.0",
 		"automattic/jetpack-waf": "^0.24.3",
 		"automattic/jetpack-status": "^5.1.4",
-		"automattic/jetpack-protect-status": "^0.6.0-alpha",
+		"automattic/jetpack-protect-status": "^0.6.0",
 		"automattic/jetpack-account-protection": "^0.2.4"
 	},
 	"require-dev": {
@@ -51,6 +51,7 @@
 			"pnpm run watch"
 		]
 	},
+	"repositories": [],
 	"minimum-stability": "dev",
 	"prefer-stable": true,
 	"extra": {
@@ -72,6 +73,6 @@
 			"automattic/jetpack-autoloader": true,
 			"automattic/jetpack-composer-plugin": true
 		},
-		"autoloader-suffix": "c4802e05bbcf59fd3b6350e8d3e5482c_protectⓥ5_0_0_alpha"
+		"autoloader-suffix": "c4802e05bbcf59fd3b6350e8d3e5482c_protectⓥ4_1_0"
 	}
 }

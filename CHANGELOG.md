@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Update package dependencies.
 
+### Fixed
+- JITM: Fix ineffective caching due to expired plugin sync transient
+
 ## 4.1.0 - 2025-06-05
 ### Added
 - Scanner: Add functionality to correctly display database threats in the Protect UI. [#43663]

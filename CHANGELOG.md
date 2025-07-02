@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - My Jetpack: Updating Stats card to include a chart for better analytics.
+- Update composer.lock
 - Update package dependencies.
 
 ### Removed

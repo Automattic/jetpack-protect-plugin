@@ -5,13 +5,16 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## 4.1.1-alpha - unreleased
+## 4.2.0-alpha - unreleased
 
 This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - My Jetpack: Updating Stats card to include a chart for better analytics.
 - Update package dependencies.
+
+### Removed
+- Remove the need to add FTP/SSH credentials to run threat fixers via Jetpack Protect.
 
 ### Fixed
 - JITM: Fix ineffective caching due to expired plugin sync transient

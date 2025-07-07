@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 This is an alpha version! The changes listed here are not final.
 
+### Changed
+- Update package dependencies.
+
 ## 4.2.0 - 2025-07-03
 ### Added
 - WAF: Add account recovery flow for blocklisted IP addresses. [#43051]

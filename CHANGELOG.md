@@ -19,6 +19,9 @@ This is an alpha version! The changes listed here are not final.
 - Sync: Ignore the ActivityPub Outbox CPT
 - Update package dependencies.
 
+### Fixed
+- Update JITMs to remove jQuery dependency
+
 ## 4.2.0 - 2025-07-03
 ### Added
 - WAF: Add account recovery flow for blocklisted IP addresses. [#43051]

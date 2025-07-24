@@ -10,7 +10,7 @@
 		"automattic/jetpack-autoloader": "^5.0.8",
 		"automattic/jetpack-composer-plugin": "^4.0.5",
 		"automattic/jetpack-config": "^3.1.1",
-		"automattic/jetpack-my-jetpack": "^5.20.1-alpha",
+		"automattic/jetpack-my-jetpack": "^5.20.1",
 		"automattic/jetpack-plugins-installer": "^0.5.6",
 		"automattic/jetpack-sync": "^4.15.2",
 		"automattic/jetpack-transport-helper": "^0.3.2",

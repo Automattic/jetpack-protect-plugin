@@ -5,25 +5,22 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## 4.3.0-alpha - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## 4.3.0 - 2025-07-30
 ### Added
-- Added UI confirmation via text box when deleting an extension via delete-fixer so that the user is fully aware that it may break their site.
-- My Jetpack: Added analytics for empty product search results.
+- Add UI confirmation via text box when deleting an extension via delete-fixer so that the user is fully aware that it may break their site. [#44521]
+- My Jetpack: Add analytics for empty product search results. [#44344]
 
 ### Changed
-- E2E tests: remove redundant logic in test fixture and converted the fixture to Typscript
-- Improves performance of wpcom comments liking by caching and minimizing API requests.
-- My Jetpack: Enabled access to My Jetpack on WP Multisite.
-- Sync: Ignore the ActivityPub Outbox CPT
-- Update package dependencies.
+- E2E tests: remove redundant logic in test fixture and converted the fixture to Typscript [#44327]
+- Improve performance of wpcom comments liking by caching and minimizing API requests. [#44205]
+- My Jetpack: Enabled access to My Jetpack on WP Multisite. [#44260]
+- Sync: Ignore the ActivityPub Outbox CPT. [#44222]
+- Update package dependencies. [#44206]
 
 ### Fixed
-- My Jetpack: Fixing footer alignment for diconnected accounts.
-- My Jetpack: Restoring plan purchase link.
-- Update JITMs to remove jQuery dependency
+- My Jetpack: Fix footer alignment for diconnected accounts. [#44468]
+- My Jetpack: Restore plan purchase link. [#44535]
+- Update JITMs to remove jQuery dependency. [#43783]
 
 ## 4.2.0 - 2025-07-03
 ### Added

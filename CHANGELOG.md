@@ -21,6 +21,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - My Jetpack: Fixing footer alignment for diconnected accounts.
+- My Jetpack: Restoring plan purchase link.
 - Update JITMs to remove jQuery dependency
 
 ## 4.2.0 - 2025-07-03

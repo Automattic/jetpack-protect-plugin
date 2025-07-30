@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 This is an alpha version! The changes listed here are not final.
 
 ### Added
+- Added UI confirmation via text box when deleting an extension via delete-fixer so that the user is fully aware that it may break their site.
 - My Jetpack: Added analytics for empty product search results.
 
 ### Changed

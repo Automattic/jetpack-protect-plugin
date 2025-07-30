@@ -17,7 +17,7 @@
 		"automattic/jetpack-plans": "^0.9.0",
 		"automattic/jetpack-waf": "^0.27.1",
 		"automattic/jetpack-status": "^6.0.0",
-		"automattic/jetpack-protect-status": "^0.6.1",
+		"automattic/jetpack-protect-status": "^0.7.0-alpha",
 		"automattic/jetpack-account-protection": "^0.2.6"
 	},
 	"require-dev": {

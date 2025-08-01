@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - My Jetpack: Unify the user connection flow with a unified screen.
 
+### Fixed
+- My Jetpack: Prevent expiration alerts for products covered by active bundles
+
 ## 4.3.0 - 2025-07-30
 ### Added
 - Add UI confirmation via text box when deleting an extension via delete-fixer so that the user is fully aware that it may break their site. [#44521]

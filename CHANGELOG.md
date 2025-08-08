@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 - Update package dependencies.
 
 ### Fixed
+- I18n: Improve context hints in comments for translators.
 - My Jetpack: Prevent expiration alerts for products covered by active bundles
 
 ## 4.3.0 - 2025-07-30

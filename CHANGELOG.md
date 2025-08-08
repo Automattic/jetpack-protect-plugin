@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - My Jetpack: Unify the user connection flow with a unified screen.
+- Update package dependencies.
 
 ### Fixed
 - My Jetpack: Prevent expiration alerts for products covered by active bundles

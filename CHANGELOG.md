@@ -36,7 +36,7 @@ This is an alpha version! The changes listed here are not final.
 - Update package dependencies. [#44206]
 
 ### Fixed
-- My Jetpack: Fix footer alignment for diconnected accounts. [#44468]
+- My Jetpack: Fix footer alignment for disconnected accounts. [#44468]
 - My Jetpack: Restore plan purchase link. [#44535]
 - Update JITMs to remove jQuery dependency. [#43783]
 

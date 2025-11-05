@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Tested up to WordPress 6.9
 
 ### Changed
+- Replace icons removed from @wordpress/icons with alternatives.
 - Update dependencies.
 - Update package dependencies.
 

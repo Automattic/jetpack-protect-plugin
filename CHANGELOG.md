@@ -19,6 +19,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Jetpack: remove getIconColor functions for block icons
+- My Jetpack: Fix expiring renewal prompt to show all products
 - My Jetpack page: fix visual compatibility issue with Hello Dolly plugin.
 
 ## 4.4.0 - 2025-10-10

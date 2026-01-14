@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - IDC: Add revalidation for IDCs.
 
 ### Changed
+- My Jetpack: Check red bubble notification async when cache is not available.
 - Update package dependencies.
 
 ### Fixed

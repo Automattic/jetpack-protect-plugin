@@ -14,7 +14,9 @@ This is an alpha version! The changes listed here are not final.
 - IDC: Add revalidation for IDCs.
 
 ### Changed
+- Migrate admin page header to use unified header pattern.
 - My Jetpack: Check red bubble notification async when cache is not available.
+- Remove translated product names from admin page headers and footers.
 - Update composer.lock.
 - Update package dependencies.
 

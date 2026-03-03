@@ -25,6 +25,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Ensure proper flags are used with `json_encode()`.
+- Fix TS type errors detected by tsgo.
 
 ## 4.4.1 - 2025-11-21
 ### Added

@@ -24,6 +24,7 @@ This is an alpha version! The changes listed here are not final.
 - General: Update minimum WordPress version to 6.8.
 
 ### Fixed
+- Admin Page: Restore border on header component.
 - Constrain license activation link width on mobile to prevent header overflow.
 - Ensure proper flags are used with `json_encode()`.
 - Fix TS errors detected by tsgo.

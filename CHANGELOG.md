@@ -17,6 +17,7 @@ This is an alpha version! The changes listed here are not final.
 - Migrate admin page header to use unified header pattern.
 - My Jetpack: Check red bubble notification async when cache is not available.
 - Remove translated product names from admin page headers and footers.
+- Switch to Native TypeScript compiler based on Go.
 - Update composer.lock.
 - Update package dependencies.
 

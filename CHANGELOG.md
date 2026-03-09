@@ -20,6 +20,7 @@ This is an alpha version! The changes listed here are not final.
 - Replace license activation link with a "Use license key" button in the header actions area.
 - Switch to Native TypeScript compiler based on Go.
 - Update composer.lock.
+- Update dependencies.
 - Update package dependencies.
 
 ### Removed

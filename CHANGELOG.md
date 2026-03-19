@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 This is an alpha version! The changes listed here are not final.
 
+### Security
+- WAF: Fix issue that potentially allowed bypassing WAF rules.
+
 ### Added
 - Adding Jetpack Protect details page for users without the dedicated Jetpack Protect plugin.
 - IDC: Add revalidation for IDCs.

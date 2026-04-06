@@ -25,6 +25,7 @@ This is an alpha version! The changes listed here are not final.
 - Switch to Native TypeScript compiler based on Go.
 - Update composer.lock.
 - Update dependencies.
+- Update design of the sidebar upsell.
 - Update package dependencies.
 
 ### Removed

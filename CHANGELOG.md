@@ -5,39 +5,35 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## 5.0.0-alpha - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## 5.0.0 - 2026-04-11
 ### Security
-- WAF: Fix issue that potentially allowed bypassing WAF rules.
+- WAF: Fix issue that potentially allowed bypassing WAF rules. [#47692]
 
 ### Added
-- Adding Jetpack Protect details page for users without the dedicated Jetpack Protect plugin.
-- IDC: Add revalidation for IDCs.
+- Add `jetpack_account_protection_send_auth_email` filter to allow custom handling of the verification email. [#48003]
+- Add Jetpack Protect details page for users without the dedicated Jetpack Protect plugin. [#46630]
+- IDC: Add revalidation for IDCs. [#46268]
 
 ### Changed
-- Comment: Add Tracking to Jetpack upsell link.
-- Dependencies: Update lock file to keep root requirements in sync.
-- Migrate admin page header to use unified header pattern.
-- My Jetpack: Check red bubble notification async when cache is not available.
-- Remove translated product names from admin page headers and footers.
-- Replace license activation link with a "Use license key" button in the header actions area.
-- Switch to Native TypeScript compiler based on Go.
-- Update composer.lock.
-- Update dependencies.
-- Update design of the sidebar upsell.
-- Update package dependencies.
+- Dependencies: Update lock file to keep root requirements in sync. [#47418]
+- Migrate admin page header to use unified header pattern. [#47313]
+- My Jetpack: Check red bubble notification async when cache is not available. [#46396]
+- Remove translated product names from admin page headers and footers. [#47313]
+- Replace license activation link with a "Use license key" button in the header actions area. [#47434]
+- Switch to Native TypeScript compiler based on Go. [#47375]
+- Update composer.lock. [#46686]
+- Update dependencies. [#47472]
+- Update design of the sidebar upsell. [#47909]
+- Update package dependencies. [#46143] [#46430] [#46456] [#46512] [#46552] [#46647] [#46785] [#46854] [#47002] [#47021] [#47099] [#47173] [#47285] [#47300] [#47371] [#47496] [#47505] [#47684] [#47825] [#47890] [#47998]
 
 ### Removed
-- General: Update minimum WordPress version to 6.8.
+- General: Update minimum WordPress version to 6.8. [#46801]
 
 ### Fixed
-- Admin Page: Restore border on header component.
-- Constrain license activation link width on mobile to prevent header overflow.
-- Ensure proper flags are used with `json_encode()`.
-- Fix TS errors detected by tsgo.
-- Fix TS type errors detected by tsgo.
+- Admin Page: Restore border on header component. [#47425]
+- Constrain license activation link width on mobile to prevent header overflow. [#47431]
+- Ensure proper flags are used with `json_encode()`. [#46117]
+- Fix TypeScript errors detected by tsgo. [#47419] [#47409]
 
 ## 4.4.1 - 2025-11-21
 ### Added

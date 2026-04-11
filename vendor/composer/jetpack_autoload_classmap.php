@@ -31,35 +31,35 @@ return array(
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-a8c-mc-stats/src/class-a8c-mc-stats.php'
 	),
 	'Automattic\\Jetpack\\Account_Protection\\Account_Protection' => array(
-		'version' => '0.3.0.0-alpha1775839604',
+		'version' => '0.3.0.0',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-account-protection/src/class-account-protection.php'
 	),
 	'Automattic\\Jetpack\\Account_Protection\\Config' => array(
-		'version' => '0.3.0.0-alpha1775839604',
+		'version' => '0.3.0.0',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-account-protection/src/class-config.php'
 	),
 	'Automattic\\Jetpack\\Account_Protection\\Email_Service' => array(
-		'version' => '0.3.0.0-alpha1775839604',
+		'version' => '0.3.0.0',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-account-protection/src/class-email-service.php'
 	),
 	'Automattic\\Jetpack\\Account_Protection\\Password_Detection' => array(
-		'version' => '0.3.0.0-alpha1775839604',
+		'version' => '0.3.0.0',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-account-protection/src/class-password-detection.php'
 	),
 	'Automattic\\Jetpack\\Account_Protection\\Password_Manager' => array(
-		'version' => '0.3.0.0-alpha1775839604',
+		'version' => '0.3.0.0',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-account-protection/src/class-password-manager.php'
 	),
 	'Automattic\\Jetpack\\Account_Protection\\Password_Strength_Meter' => array(
-		'version' => '0.3.0.0-alpha1775839604',
+		'version' => '0.3.0.0',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-account-protection/src/class-password-strength-meter.php'
 	),
 	'Automattic\\Jetpack\\Account_Protection\\Settings' => array(
-		'version' => '0.3.0.0-alpha1775839604',
+		'version' => '0.3.0.0',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-account-protection/src/class-settings.php'
 	),
 	'Automattic\\Jetpack\\Account_Protection\\Validation_Service' => array(
-		'version' => '0.3.0.0-alpha1775839604',
+		'version' => '0.3.0.0',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-account-protection/src/class-validation-service.php'
 	),
 	'Automattic\\Jetpack\\Admin_UI\\Admin_Menu' => array(
@@ -915,15 +915,15 @@ return array(
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-connection/src/class-tracking.php'
 	),
 	'Automattic\\Jetpack\\Transport_Helper\\Package_Version' => array(
-		'version' => '0.3.5.0-alpha1771854229',
+		'version' => '0.3.5.0',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-transport-helper/src/class-package-version.php'
 	),
 	'Automattic\\Jetpack\\Transport_Helper\\V0001\\Package_Version' => array(
-		'version' => '0.3.5.0-alpha1771854229',
+		'version' => '0.3.5.0',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-transport-helper/src/class-package-version-compat.php'
 	),
 	'Automattic\\Jetpack\\Transport_Helper\\V0005\\REST_Controller' => array(
-		'version' => '0.3.5.0-alpha1771854229',
+		'version' => '0.3.5.0',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-transport-helper/src/class-rest-controller.php'
 	),
 	'Automattic\\Jetpack\\Waf\\Blocked_Login_Page' => array(

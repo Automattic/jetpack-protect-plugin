@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Adopt the shared Jetpack admin-page-layout mixin: pinned header, scrolling middle, pinned footer, no window-level scroll.
+- Internal: No longer require automattic/jetpack-changelogger as a per-project dev dependency.
 - Remove Jetpack color overrides on core WordPress components.
 - Tested up to WordPress 7.0.
 - Update package dependencies.

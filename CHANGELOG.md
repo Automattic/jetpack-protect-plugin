@@ -17,6 +17,9 @@ This is an alpha version! The changes listed here are not final.
 - Tested up to WordPress 7.0.
 - Update package dependencies.
 
+### Fixed
+- Firewall: fix "Enable Firewall" notice CTA missing loading/disabled state, which let users double-click and toggle the WAF back off.
+
 ## 5.0.0 - 2026-04-11
 ### Security
 - WAF: Fix issue that potentially allowed bypassing WAF rules. [#47692]

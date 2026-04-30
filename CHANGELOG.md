@@ -11,7 +11,9 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Adopt the shared Jetpack admin-page-layout mixin: pinned header, scrolling middle, pinned footer, no window-level scroll.
+- Firewall: add accessible names to the Brute force protection, Block IP addresses, and Trusted IP addresses toggles.
 - Internal: No longer require automattic/jetpack-changelogger as a per-project dev dependency.
+- Migrate the Protect admin page tabs from react-router NavLinks to the shared @wordpress/ui Tabs component. No functional change.
 - Remove Jetpack color overrides on core WordPress components.
 - Replace deprecated jetpack-components Spinner with WordPress Core Spinner.
 - Tested up to WordPress 7.0.

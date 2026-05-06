@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Adopt the shared Jetpack admin-page-layout mixin: pinned header, scrolling middle, pinned footer, no window-level scroll.
+- Components: Use Link from `@wordpress/ui` instead of ExternalLink.
 - Firewall: add accessible names to the Brute force protection, Block IP addresses, and Trusted IP addresses toggles.
 - Internal: migrate Notice usages to @wordpress/ui.
 - Internal: No longer require automattic/jetpack-changelogger as a per-project dev dependency.

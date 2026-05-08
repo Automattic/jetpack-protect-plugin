@@ -5,7 +5,7 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## 5.0.1-alpha - unreleased
+## 5.1.0-alpha - unreleased
 
 This is an alpha version! The changes listed here are not final.
 
@@ -19,6 +19,7 @@ This is an alpha version! The changes listed here are not final.
 - Protect: Remove translation wrappers from the "Protect" product name.
 - Remove Jetpack color overrides on core WordPress components.
 - Replace deprecated jetpack-components Spinner with WordPress Core Spinner.
+- Replace Gridicon with Icon and named icon exports from `@wordpress/icons`.
 - Tested up to WordPress 7.0.
 - Update package dependencies.
 

@@ -16,6 +16,7 @@ This is an alpha version! The changes listed here are not final.
 - Internal: migrate Notice usages to @wordpress/ui.
 - Internal: No longer require automattic/jetpack-changelogger as a per-project dev dependency.
 - Migrate the Protect admin page tabs from react-router NavLinks to the shared @wordpress/ui Tabs component. No functional change.
+- Protect: migrate Status indicator to @wordpress/ui Text.
 - Protect: Remove translation wrappers from the "Protect" product name.
 - Remove Jetpack color overrides on core WordPress components.
 - Replace deprecated jetpack-components Spinner with WordPress Core Spinner.

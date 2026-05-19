@@ -26,6 +26,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Firewall: fix "Enable Firewall" notice CTA missing loading/disabled state, which let users double-click and toggle the WAF back off.
+- Phan: Address PhanPluginDuplicateConditionalNullCoalescing violations.
 
 ## 5.0.0 - 2026-04-11
 ### Security

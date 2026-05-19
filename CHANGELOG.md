@@ -21,6 +21,7 @@ This is an alpha version! The changes listed here are not final.
 - Remove Jetpack color overrides on core WordPress components.
 - Replace deprecated jetpack-components Spinner with WordPress Core Spinner.
 - Replace Gridicon with Icon and named icon exports from `@wordpress/icons`.
+- Replace internal ContextualUpgradeTrigger upgrade prompts with @wordpress/ui Notice composition. Internal refactor with a Notice-style visual refresh.
 - Tested up to WordPress 7.0.
 - Update package dependencies.
 

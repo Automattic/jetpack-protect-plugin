@@ -24,6 +24,7 @@ This is an alpha version! The changes listed here are not final.
 - Replace Gridicon with Icon and named icon exports from `@wordpress/icons`.
 - Replace internal ContextualUpgradeTrigger upgrade prompts with @wordpress/ui Notice composition. Internal refactor with a Notice-style visual refresh.
 - Tested up to WordPress 7.0.
+- Updated package dependencies.
 - Update package dependencies.
 
 ### Fixed

@@ -5,7 +5,7 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## 5.1.0-alpha - unreleased
+## 6.0.0-alpha - unreleased
 
 This is an alpha version! The changes listed here are not final.
 
@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Adopt the shared Jetpack admin-page-layout mixin: pinned header, scrolling middle, pinned footer, no window-level scroll.
 - Components: Use Link from `@wordpress/ui` instead of ExternalLink.
 - Firewall: add accessible names to the Brute force protection, Block IP addresses, and Trusted IP addresses toggles.
+- General: Update minimum WordPress version to 6.9.
 - Internal: migrate Notice usages to @wordpress/ui.
 - Internal: No longer require automattic/jetpack-changelogger as a per-project dev dependency.
 - Migrate the Protect admin page tabs from react-router NavLinks to the shared @wordpress/ui Tabs component. No functional change.

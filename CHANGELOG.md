@@ -21,6 +21,7 @@ This is an alpha version! The changes listed here are not final.
 - Protect: migrate Status indicator to @wordpress/ui Text.
 - Protect: Remove translation wrappers from the "Protect" product name.
 - Remove Jetpack color overrides on core WordPress components.
+- Remove unneeded development and documentation files from the published plugin.
 - Replace deprecated jetpack-components Spinner with WordPress Core Spinner.
 - Replace Gridicon with Icon and named icon exports from `@wordpress/icons`.
 - Replace internal ContextualUpgradeTrigger upgrade prompts with @wordpress/ui Notice composition. Internal refactor with a Notice-style visual refresh.

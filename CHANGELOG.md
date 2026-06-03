@@ -34,6 +34,7 @@ This is an alpha version! The changes listed here are not final.
 - Firewall: show 0 instead of NaN on the stat cards when there are no blocked requests.
 - Phan: Address PhanPluginDuplicateConditionalNullCoalescing violations.
 - Removed the React Query Devtools (TanStack debugger).
+- Switch to wp/ui Text for wrapping account protection settings
 
 ## 5.0.0 - 2026-04-11
 ### Security

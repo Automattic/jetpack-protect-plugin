@@ -17,6 +17,7 @@ This is an alpha version! The changes listed here are not final.
 - Internal: migrate Notice usages to @wordpress/ui.
 - Internal: No longer require automattic/jetpack-changelogger as a per-project dev dependency.
 - Migrate the Protect admin page tabs from react-router NavLinks to the shared @wordpress/ui Tabs component. No functional change.
+- Migrate ToggleControl to @wordpress/components
 - Protect: Migrate page tabs from default to minimal variant; align via shared jp-admin-page-tabs--minimal wrapper modifier. Bump @wordpress/ui to 0.13.0.
 - Protect: migrate Status indicator to @wordpress/ui Text.
 - Protect: Remove translation wrappers from the "Protect" product name.

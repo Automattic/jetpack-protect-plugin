@@ -21,6 +21,7 @@ This is an alpha version! The changes listed here are not final.
 - Protect: Migrate page tabs from default to minimal variant; align via shared jp-admin-page-tabs--minimal wrapper modifier. Bump @wordpress/ui to 0.13.0.
 - Protect: migrate Status indicator to @wordpress/ui Text.
 - Protect: Remove translation wrappers from the "Protect" product name.
+- Protect now reports its threat count to the central menu-badges registry instead of writing admin-menu markup directly.
 - Remove Jetpack color overrides on core WordPress components.
 - Remove unneeded development and documentation files from the published plugin.
 - Replace deprecated jetpack-components Spinner with WordPress Core Spinner.

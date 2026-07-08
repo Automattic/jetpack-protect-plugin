@@ -246,6 +246,7 @@ return array(
     'Automattic\\Jetpack\\Transport_Helper\\Package_Version' => $baseDir . '/jetpack_vendor/automattic/jetpack-transport-helper/src/class-package-version.php',
     'Automattic\\Jetpack\\Transport_Helper\\V0001\\Package_Version' => $baseDir . '/jetpack_vendor/automattic/jetpack-transport-helper/src/class-package-version-compat.php',
     'Automattic\\Jetpack\\Transport_Helper\\V0005\\REST_Controller' => $baseDir . '/jetpack_vendor/automattic/jetpack-transport-helper/src/class-rest-controller.php',
+    'Automattic\\Jetpack\\WP_Build_Polyfills\\WP_Build_Polyfills' => $baseDir . '/jetpack_vendor/automattic/jetpack-wp-build-polyfills/src/class-wp-build-polyfills.php',
     'Automattic\\Jetpack\\Waf\\Blocked_Login_Page' => $baseDir . '/jetpack_vendor/automattic/jetpack-waf/src/abstract-blocked-login-page.php',
     'Automattic\\Jetpack\\Waf\\Brute_Force_Protection\\Brute_Force_Protection' => $baseDir . '/jetpack_vendor/automattic/jetpack-waf/src/class-brute-force-protection.php',
     'Automattic\\Jetpack\\Waf\\Brute_Force_Protection\\Brute_Force_Protection_Blocked_Login_Page' => $baseDir . '/jetpack_vendor/automattic/jetpack-waf/src/brute-force-protection/class-brute-force-protection-blocked-login-page.php',

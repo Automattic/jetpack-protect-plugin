@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 This is an alpha version! The changes listed here are not final.
 
+### Added
+- Account Protection: Add additional context to Verify your identity page to reduce user confusion.
+
 ### Changed
 - Adopt the shared Jetpack admin-page-layout mixin: pinned header, scrolling middle, pinned footer, no window-level scroll.
 - Components: Use Link from `@wordpress/ui` instead of ExternalLink.

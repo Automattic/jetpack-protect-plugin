@@ -41,6 +41,7 @@ This is an alpha version! The changes listed here are not final.
 - Firewall: show 0 instead of NaN on the stat cards when there are no blocked requests.
 - Fix fatal error on My Jetpack when the current stable Jetpack plugin is active.
 - Phan: Address PhanPluginDuplicateConditionalNullCoalescing violations.
+- Protect: fix route changes in Chrome when scroll APIs return promises.
 - Removed the React Query Devtools (TanStack debugger).
 - Switch to wp/ui Text for wrapping account protection settings
 

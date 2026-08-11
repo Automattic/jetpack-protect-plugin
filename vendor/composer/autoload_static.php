@@ -4,7 +4,7 @@
 
 namespace Composer\Autoload;
 
-class ComposerStaticInitc4802e05bbcf59fd3b6350e8d3e5482c_protectⓥ6_0_0
+class ComposerStaticInitc4802e05bbcf59fd3b6350e8d3e5482c_protectⓥ6_1_0_alpha
 {
     public static $files = array (
         '3773ef3f09c37da5478d578e32b03a4b' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-assets/actions.php',
@@ -39,6 +39,10 @@ class ComposerStaticInitc4802e05bbcf59fd3b6350e8d3e5482c_protectⓥ6_0_0
         'Automattic\\Jetpack\\Account_Protection\\Password_Strength_Meter' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-account-protection/src/class-password-strength-meter.php',
         'Automattic\\Jetpack\\Account_Protection\\Settings' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-account-protection/src/class-settings.php',
         'Automattic\\Jetpack\\Account_Protection\\Validation_Service' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-account-protection/src/class-validation-service.php',
+        'Automattic\\Jetpack\\Activity_Log\\Initial_State' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-activity-log/src/class-initial-state.php',
+        'Automattic\\Jetpack\\Activity_Log\\Jetpack_Activity_Log' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-activity-log/src/class-jetpack-activity-log.php',
+        'Automattic\\Jetpack\\Activity_Log\\Package_Version' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-activity-log/src/class-package-version.php',
+        'Automattic\\Jetpack\\Activity_Log\\REST_Controller' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-activity-log/src/class-rest-controller.php',
         'Automattic\\Jetpack\\Admin_UI\\Admin_Menu' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-admin-ui/src/class-admin-menu.php',
         'Automattic\\Jetpack\\Agents_Manager\\Agents_Manager' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-agents-manager/src/class-agents-manager.php',
         'Automattic\\Jetpack\\Agents_Manager\\Open_State_Store' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-agents-manager/src/class-open-state-store.php',
@@ -307,9 +311,9 @@ class ComposerStaticInitc4802e05bbcf59fd3b6350e8d3e5482c_protectⓥ6_0_0
     public static function getInitializer(ClassLoader $loader)
     {
         return \Closure::bind(function () use ($loader) {
-            $loader->prefixLengthsPsr4 = ComposerStaticInitc4802e05bbcf59fd3b6350e8d3e5482c_protectⓥ6_0_0::$prefixLengthsPsr4;
-            $loader->prefixDirsPsr4 = ComposerStaticInitc4802e05bbcf59fd3b6350e8d3e5482c_protectⓥ6_0_0::$prefixDirsPsr4;
-            $loader->classMap = ComposerStaticInitc4802e05bbcf59fd3b6350e8d3e5482c_protectⓥ6_0_0::$classMap;
+            $loader->prefixLengthsPsr4 = ComposerStaticInitc4802e05bbcf59fd3b6350e8d3e5482c_protectⓥ6_1_0_alpha::$prefixLengthsPsr4;
+            $loader->prefixDirsPsr4 = ComposerStaticInitc4802e05bbcf59fd3b6350e8d3e5482c_protectⓥ6_1_0_alpha::$prefixDirsPsr4;
+            $loader->classMap = ComposerStaticInitc4802e05bbcf59fd3b6350e8d3e5482c_protectⓥ6_1_0_alpha::$classMap;
 
         }, null, ClassLoader::class);
     }

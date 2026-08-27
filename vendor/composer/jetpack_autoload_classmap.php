@@ -994,8 +994,12 @@ return array(
 		'version' => '0.4.0.0-alpha1787677819',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-transport-helper/src/class-rest-controller.php'
 	),
+	'Automattic\\Jetpack\\WP_Build_Polyfills\\WP_Build_Admin_Frame' => array(
+		'version' => '0.5.1.0-alpha1787816115',
+		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-wp-build-polyfills/src/class-wp-build-admin-frame.php'
+	),
 	'Automattic\\Jetpack\\WP_Build_Polyfills\\WP_Build_Polyfills' => array(
-		'version' => '0.5.0.0',
+		'version' => '0.5.1.0-alpha1787816115',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-wp-build-polyfills/src/class-wp-build-polyfills.php'
 	),
 	'Automattic\\Jetpack\\Waf\\Blocked_Login_Page' => array(

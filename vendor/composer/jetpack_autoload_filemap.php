@@ -11,8 +11,12 @@ return array(
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-assets/actions.php'
 	),
 	'7372b7fb88a9723cf5b76d456eb0b738' => array(
-		'version' => '9.3.0.0-alpha1789387305',
+		'version' => '9.3.0.0-alpha1789426321',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-connection/actions.php'
+	),
+	'483ab369492aebf2550e8341e3d031c8' => array(
+		'version' => '4.1.0.0-alpha1789426321',
+		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-licensing/actions.php'
 	),
 	'590147edb63acb03b2852d5c4db13ce8' => array(
 		'version' => '0.4.0.0-alpha1787677819',

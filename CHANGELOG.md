@@ -21,6 +21,7 @@ This is an alpha version! The changes listed here are not final.
 - General: Update minimum WordPress version to 7.0.
 - Hide the Protect sidebar item when Protect is not active.
 - My Jetpack: Restyle dashboard notices to match the WordPress design system.
+- My Jetpack: Show the dashboard in the new rounded admin page frame.
 - My Jetpack: Show the Jetpack menu notification badge when a connection error is detected.
 - My Jetpack: Show what Paid Stats actually adds — UTM tracking, device stats, and region & city locations — instead of commercial use.
 - Notices: Restyle to match the WordPress design system.

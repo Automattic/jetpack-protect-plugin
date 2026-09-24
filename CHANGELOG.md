@@ -18,6 +18,7 @@ This is an alpha version! The changes listed here are not final.
 - Charts: follow the WordPress admin color scheme for chart series colors.
 - Charts: update chart grid, axis and label colors immediately when the theme changes.
 - Connection: Show every connection error in one notice, each with the account it affects, and link to Site Health when a firewall is blocking WordPress.com.
+- Dashboard: Keep focus on information icons when their tooltips open, announce the content to screen readers, and show a focus ring after clicking them.
 - General: Update minimum WordPress version to 7.0.
 - Hide the Protect sidebar item when Protect is not active.
 - My Jetpack: answer module switch clicks immediately, and explain what happened when a change fails.

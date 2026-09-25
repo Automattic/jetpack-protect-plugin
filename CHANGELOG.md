@@ -42,6 +42,7 @@ This is an alpha version! The changes listed here are not final.
 - Activity Log: Stop the frame from flashing while loading and when switching admin pages.
 - Admin dashboards: Keep the page header and content in view when the wp-admin menu is taller than the window.
 - Charts: draw labels at the design system's font weight and size.
+- Close information tooltips opened on hover when Escape is pressed, wherever focus is.
 - Connection: Fix a stale connection error notice that could persist on healthy sites.
 - Connection: Hide connection error notices from users who cannot fix the connection.
 - Connection: Let users without admin access reconnect their own broken account from the connection error notice.

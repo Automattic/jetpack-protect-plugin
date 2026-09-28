@@ -52,6 +52,7 @@ This is an alpha version! The changes listed here are not final.
 - Connection: Update wording for some connection error notices.
 - Dashboard: Open information tooltips with the keyboard and dismiss them with Escape.
 - Firewall: Avoid a 500 error for visitors on the IP block list when the firewall runs before WordPress.
+- Firewall: Fix blank Jetpack admin pages when the standalone mode bootstrap loads from an older copy of the plugin.
 - Footer: Hide Products and Help links when My Jetpack is unavailable.
 - JITM: Fix missing messages and a console error on sites without the Jetpack plugin active.
 - Keep admin icons colored after the @wordpress/icons 16 update, which draws them as strokes.

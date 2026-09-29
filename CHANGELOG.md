@@ -45,6 +45,7 @@ This is an alpha version! The changes listed here are not final.
 - Charts: draw labels at the design system's font weight and size.
 - Close information tooltips opened on hover when Escape is pressed, wherever focus is.
 - Connection: Fix a stale connection error notice that could persist on healthy sites.
+- Connection: Fix reconnecting your WordPress.com account so it no longer disconnects other users and clears the broken-connection notice on the first attempt.
 - Connection: Hide connection error notices from users who cannot fix the connection.
 - Connection: Let users without admin access reconnect their own broken account from the connection error notice.
 - Connection: Report a broken connection on My Jetpack's connection card instead of claiming everything looks good, and show a break only the connection owner can repair as a warning, not an error, to everyone else.

@@ -25,6 +25,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: answer module switch clicks immediately, and explain what happened when a change fails.
 - My Jetpack: Restyle dashboard notices to match the WordPress design system.
 - My Jetpack: Show a Features tab in place of the Products tab.
+- My Jetpack: Show product cards flat, without a drop shadow.
 - My Jetpack: Show the dashboard in the new rounded admin page frame.
 - My Jetpack: Show the Jetpack menu notification badge when a connection error is detected.
 - My Jetpack: Show what Paid Stats actually adds — UTM tracking, device stats, and region & city locations — instead of commercial use.
@@ -61,6 +62,7 @@ This is an alpha version! The changes listed here are not final.
 - JITM: Fix missing messages and a console error on sites without the Jetpack plugin active.
 - Keep admin icons colored after the @wordpress/icons 16 update, which draws them as strokes.
 - My Jetpack: always label the license activation link 'Activate a license'. It previously read 'Activate a new license' on sites with a plan, even when no licenses had been activated.
+- My Jetpack: Fix overlapping and misaligned stats on the Protect card.
 - My Jetpack: Fix the dashboard failing to load on WordPress.com-hosted sites.
 - My Jetpack: Fix the layout of the connection screen for right-to-left languages.
 - My Jetpack: Keep the Automattic for Agencies banner hidden after dismissing it and switching tabs.

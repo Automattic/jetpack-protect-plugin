@@ -20,7 +20,7 @@
 		"automattic/jetpack-waf": "^0.29.2",
 		"automattic/jetpack-status": "^7.1.0",
 		"automattic/jetpack-protect-status": "^0.8.1",
-		"automattic/jetpack-account-protection": "^0.4.0"
+		"automattic/jetpack-account-protection": "^0.4.1-alpha"
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "^4.0.0",

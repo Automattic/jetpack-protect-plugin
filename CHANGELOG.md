@@ -15,6 +15,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Account Protection: Improve login verification.
+- Account Protection: Stop turning the feature on automatically when Protect is activated. Sites where it is already on keep it on.
 - Activity Log: Show the connection error notice only when a connection error has been recorded.
 - Boost: Wait up to four minutes for slow speed tests in My Jetpack instead of timing out after two.
 - Charts: follow the WordPress admin color scheme for chart series colors.

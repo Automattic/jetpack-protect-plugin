@@ -48,6 +48,7 @@ This is an alpha version! The changes listed here are not final.
 - Activity Log: honor the module setting, so the page can be turned off.
 - Activity Log: Stop the frame from flashing while loading and when switching admin pages.
 - Admin dashboards: Keep the page header and content in view when the wp-admin menu is taller than the window.
+- Brute Force Protection: Let new users set their password from a blocked IP, and stop sending recovery emails to accounts that have not set one yet.
 - Charts: draw labels at the design system's font weight and size.
 - Close information tooltips opened on hover when Escape is pressed, wherever focus is.
 - Connection: Fix a stale connection error notice that could persist on healthy sites.

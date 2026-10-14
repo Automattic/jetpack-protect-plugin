@@ -279,6 +279,7 @@ return array(
     'Automattic\\Jetpack\\Waf\\Waf_Rules_Manager' => $baseDir . '/jetpack_vendor/automattic/jetpack-waf/src/class-waf-rules-manager.php',
     'Automattic\\Jetpack\\Waf\\Waf_Runner' => $baseDir . '/jetpack_vendor/automattic/jetpack-waf/src/class-waf-runner.php',
     'Automattic\\Jetpack\\Waf\\Waf_Runtime' => $baseDir . '/jetpack_vendor/automattic/jetpack-waf/src/class-waf-runtime.php',
+    'Automattic\\Jetpack\\Waf\\Waf_Self_Check' => $baseDir . '/jetpack_vendor/automattic/jetpack-waf/src/class-waf-self-check.php',
     'Automattic\\Jetpack\\Waf\\Waf_Standalone_Bootstrap' => $baseDir . '/jetpack_vendor/automattic/jetpack-waf/src/class-waf-standalone-bootstrap.php',
     'Automattic\\Jetpack\\Waf\\Waf_Stats' => $baseDir . '/jetpack_vendor/automattic/jetpack-waf/src/class-waf-stats.php',
     'Automattic\\Jetpack\\Waf\\Waf_Transforms' => $baseDir . '/jetpack_vendor/automattic/jetpack-waf/src/class-waf-transforms.php',

@@ -67,6 +67,7 @@ This is an alpha version! The changes listed here are not final.
 - Dashboard: Open information tooltips with the keyboard and dismiss them with Escape.
 - Firewall: Avoid a 500 error for visitors on the IP block list when the firewall runs before WordPress.
 - Firewall: Fix blank Jetpack admin pages when the standalone mode bootstrap loads from an older copy of the plugin.
+- Firewall: Show up-to-date blocked request counts on sites with a persistent object cache.
 - Firewall and Account protection: Fix turning a feature on or off doing the opposite when the page was out of date.
 - Footer: Hide Products and Help links when My Jetpack is unavailable.
 - JITM: Fix missing messages and a console error on sites without the Jetpack plugin active.

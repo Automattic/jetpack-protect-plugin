@@ -5,9 +5,9 @@
 	"license": "GPL-2.0-or-later",
 	"require": {
 		"ext-json": "*",
-		"automattic/jetpack-activity-log": "^0.5.0-alpha",
-		"automattic/jetpack-assets": "^5.0.9",
-		"automattic/jetpack-admin-ui": "^0.14.3",
+		"automattic/jetpack-activity-log": "^0.5.0",
+		"automattic/jetpack-assets": "^5.0.10",
+		"automattic/jetpack-admin-ui": "^0.14.4",
 		"automattic/jetpack-autoloader": "^6.0.1",
 		"automattic/jetpack-composer-plugin": "^5.0.0",
 		"automattic/jetpack-config": "^4.0.0",
@@ -17,10 +17,10 @@
 		"automattic/jetpack-sync": "^5.4.1",
 		"automattic/jetpack-transport-helper": "^0.4.0-alpha",
 		"automattic/jetpack-plans": "^0.14.1",
-		"automattic/jetpack-waf": "^0.29.3-alpha",
+		"automattic/jetpack-waf": "^0.29.4-alpha",
 		"automattic/jetpack-status": "^7.1.0",
 		"automattic/jetpack-protect-status": "^0.8.1",
-		"automattic/jetpack-account-protection": "^0.4.1-alpha"
+		"automattic/jetpack-account-protection": "^0.4.1"
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "^4.0.0",

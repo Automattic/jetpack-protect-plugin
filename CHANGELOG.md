@@ -15,7 +15,9 @@ This is an alpha version! The changes listed here are not final.
 - Connection: Transfer connection ownership to another administrator without leaving your site.
 - Connection: Transfer connection ownership to another connected administrator from the Connectors page.
 - My Jetpack: Add an Available filter to the Features list.
+- My Jetpack: Add catalog-controlled Pro offers and preserve existing plan management.
 - My Jetpack: Allow the Automattic for Agencies banner to be dismissed.
+- My Jetpack: Recognize Jetpack Pro subscriptions and licenses.
 
 ### Changed
 - Account Protection: Improve login verification.
@@ -32,6 +34,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: answer module switch clicks immediately, and explain what happened when a change fails.
 - My Jetpack: Line up notices with the cards below them, and drop the grey background behind the Features grid and list buttons.
 - My Jetpack: Open Protect instead of Jetpack Cloud to manage Scan.
+- My Jetpack: Refresh Pro availability while preserving existing offers.
 - My Jetpack: Restyle dashboard notices to match the WordPress design system.
 - My Jetpack: Show a Features tab in place of the Products tab.
 - My Jetpack: Show product cards flat, without a drop shadow.

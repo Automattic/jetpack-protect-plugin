@@ -30,6 +30,7 @@ This is an alpha version! The changes listed here are not final.
 - General: Update minimum WordPress version to 7.0.
 - Hide the Protect sidebar item when Protect is not active.
 - My Jetpack: answer module switch clicks immediately, and explain what happened when a change fails.
+- My Jetpack: Line up notices with the cards below them, and drop the grey background behind the Features grid and list buttons.
 - My Jetpack: Open Protect instead of Jetpack Cloud to manage Scan.
 - My Jetpack: Restyle dashboard notices to match the WordPress design system.
 - My Jetpack: Show a Features tab in place of the Products tab.

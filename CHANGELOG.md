@@ -29,6 +29,7 @@ This is an alpha version! The changes listed here are not final.
 - Charts: update chart grid, axis and label colors immediately when the theme changes.
 - Connection: Link the connection owner's name on the Connectors card to their profile, and update the card without reloading the page when a non-owner disconnects their account.
 - Connection: Show every connection error in one notice, each with the account it affects, and link to Site Health when a firewall is blocking WordPress.com.
+- Connection screen: Show the terms of service line under the pricing table at the WordPress design system's text size.
 - Dashboard: Keep focus on information icons when their tooltips open, announce the content to screen readers, and show a focus ring after clicking them.
 - General: Update minimum WordPress version to 7.0.
 - Hide the Protect sidebar item when Protect is not active.

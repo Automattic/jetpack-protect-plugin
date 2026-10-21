@@ -74,6 +74,7 @@ This is an alpha version! The changes listed here are not final.
 - Connection: Translate the Connectors card's text on sites that don't use English.
 - Connection: Update wording for some connection error notices.
 - Dashboard: Open information tooltips with the keyboard and dismiss them with Escape.
+- Features: Show a plugin as active when a Beta or -dev copy is active beside an installed stable copy, and turn off the active copy when deactivating it.
 - Firewall: Avoid a 500 error for visitors on the IP block list when the firewall runs before WordPress.
 - Firewall: Fix blank Jetpack admin pages when the standalone mode bootstrap loads from an older copy of the plugin.
 - Firewall: Show up-to-date blocked request counts on sites with a persistent object cache.

@@ -105,6 +105,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: stretch the tab content background to the full height of the page.
 - Notices: Announce errors to screen readers.
 - Show Jetpack in-dashboard messages under the tabs, on every tab.
+- Show why connecting the site failed under the "Start for free" button.
 - Status: Detect a site served on any 127.0.0.0/8 loopback address, or on 0.0.0.0, as a local site.
 
 ## 6.1.0 - 2026-08-12

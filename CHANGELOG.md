@@ -36,6 +36,7 @@ This is an alpha version! The changes listed here are not final.
 - Connection: When disconnecting the site from the Connectors card, list the plugins that will stop working and link to help.
 - Connection screen: Show the terms of service line under the pricing table at the WordPress design system's text size.
 - Dashboard: Keep focus on information icons when their tooltips open, announce the content to screen readers, and show a focus ring after clicking them.
+- Firewall: Explain to a visitor blocked by the IP block list what happened and that site managers can log in for more information.
 - General: Update minimum WordPress version to 7.0.
 - Hide the Protect sidebar item when Protect is not active.
 - My Jetpack: answer module switch clicks immediately, and explain what happened when a change fails.

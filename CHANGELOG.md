@@ -54,6 +54,7 @@ This is an alpha version! The changes listed here are not final.
 - Tested up to WordPress 7.1.
 - Update dependencies.
 - Update package dependencies.
+- Update the recommended Jetpack bundles in the plugin description.
 
 ### Removed
 - Updated PHP version requirements to PHP 7.4 or newer.

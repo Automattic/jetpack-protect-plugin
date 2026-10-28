@@ -92,6 +92,7 @@ This is an alpha version! The changes listed here are not final.
 - Keep admin icons colored after the @wordpress/icons 16 update, which draws them as strokes.
 - My Jetpack: always label the license activation link 'Activate a license'. It previously read 'Activate a new license' on sites with a plan, even when no licenses had been activated.
 - My Jetpack: Ask for a user connection on the Overview connection card as soon as a plugin that needs one is switched on, without a reload.
+- My Jetpack: Bring the first Features results into view after changing the filter or search while scrolled down.
 - My Jetpack: Fix overlapping and misaligned stats on the Protect card.
 - My Jetpack: Fix the dashboard failing to load on WordPress.com-hosted sites.
 - My Jetpack: Fix the layout of the connection screen for right-to-left languages.

@@ -46,6 +46,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: On the Features tab, keep a plugin's switch busy until its card is up to date after a failed change, or after any change on sites that also run Jetpack.
 - My Jetpack: Open Protect instead of Jetpack Cloud to manage Scan.
 - My Jetpack: Open supported Modules links in Features when Jetpack is active.
+- My Jetpack: Open the Jetpack Connection details on the Connectors screen from the header's Manage connection link.
 - My Jetpack: Refresh Pro availability while preserving existing offers.
 - My Jetpack: Restyle dashboard notices to match the WordPress design system.
 - My Jetpack: Show a Features tab in place of the Products tab.

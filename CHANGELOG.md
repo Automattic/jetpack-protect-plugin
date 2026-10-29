@@ -39,6 +39,7 @@ This is an alpha version! The changes listed here are not final.
 - Firewall: Explain to a visitor blocked by the IP block list what happened and that site managers can log in for more information.
 - General: Update minimum WordPress version to 7.0.
 - Hide the Protect sidebar item when Protect is not active.
+- Hide the threat count from the admin menu and admin bar when the host turns off threat notifications.
 - My Jetpack: answer module switch clicks immediately, and explain what happened when a change fails.
 - My Jetpack: Connect a WordPress.com account from feature cards that need one. Show feature states through switches or buttons instead of redundant Active or Inactive badges, and show host restrictions below descriptions. Leave features out of Available when their only action is an install you cannot make.
 - My Jetpack: Line up notices with the cards below them, and drop the grey background behind the Features grid and list buttons.

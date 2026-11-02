@@ -128,6 +128,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Stop the Stats dashboard from asking which plan you want again after Start for Free was already chosen.
 - My Jetpack: stretch the tab content background to the full height of the page.
 - Notices: Announce errors to screen readers.
+- Recognize Jetpack Pro licenses when connecting.
 - Scan: On WordPress.com, show Personal and Premium sites the vulnerability report and the Scan upgrade, since their plans don't include Scan.
 - Show Jetpack in-dashboard messages under the tabs, on every tab.
 - Show why connecting the site failed under the "Start for free" button.

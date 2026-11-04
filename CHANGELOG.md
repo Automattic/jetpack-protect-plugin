@@ -99,6 +99,7 @@ This is an alpha version! The changes listed here are not final.
 - Firewall: Show up-to-date blocked request counts on sites with a persistent object cache.
 - Firewall and Account protection: Fix turning a feature on or off doing the opposite when the page was out of date.
 - Footer: Hide Products and Help links when My Jetpack is unavailable.
+- Footer: Show the Features link to administrators only.
 - JITM: Fix missing messages and a console error on sites without the Jetpack plugin active.
 - Keep admin icons colored after the @wordpress/icons 16 update, which draws them as strokes.
 - My Jetpack: always label the license activation link 'Activate a license'. It previously read 'Activate a new license' on sites with a plan, even when no licenses had been activated.

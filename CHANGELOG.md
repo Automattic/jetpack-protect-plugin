@@ -132,6 +132,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: stretch the tab content background to the full height of the page.
 - Notices: Announce errors to screen readers.
 - Recognize Jetpack Pro licenses when connecting.
+- Scan: Offer a first scan when none has run, show when the last scan didn't complete or hasn't run yet on the My Jetpack Protect card, and stop counting a vulnerability once its plugin or theme is updated to the fixed version. Firewall: Honor CIDR ranges on the trusted IP addresses list, and make `wp jetpack-waf teardown` and `wp jetpack-waf setup` turn the Firewall off and on.
 - Scan: On WordPress.com, show Personal and Premium sites the vulnerability report and the Scan upgrade, since their plans don't include Scan.
 - Show Jetpack in-dashboard messages under the tabs, on every tab.
 - Show why connecting the site failed under the "Start for free" button.

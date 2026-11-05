@@ -19,6 +19,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Add catalog-controlled Pro offers and preserve existing plan management.
 - My Jetpack: Allow the Automattic for Agencies banner to be dismissed.
 - My Jetpack: Recognize Jetpack Pro subscriptions and licenses.
+- Site Health: Add Jetpack connection details to the Info tab and the copied site info report.
 
 ### Changed
 - Account Protection: Improve login verification.

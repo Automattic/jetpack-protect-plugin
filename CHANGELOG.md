@@ -68,6 +68,7 @@ This is an alpha version! The changes listed here are not final.
 - Update dependencies.
 - Update package dependencies.
 - Update the recommended Jetpack bundles in the plugin description.
+- Use "Login protection" and "Firewall" as feature names, including in firewall notices, and say "Jetpack" rather than "Jetpack Scan" for what fixing a threat does.
 
 ### Removed
 - Updated PHP version requirements to PHP 7.4 or newer.
@@ -135,6 +136,9 @@ This is an alpha version! The changes listed here are not final.
 - Recognize Jetpack Pro licenses when connecting.
 - Scan: Offer a first scan when none has run, show when the last scan didn't complete or hasn't run yet on the My Jetpack Protect card, and stop counting a vulnerability once its plugin or theme is updated to the fixed version. Firewall: Honor CIDR ranges on the trusted IP addresses list, and make `wp jetpack-waf teardown` and `wp jetpack-waf setup` turn the Firewall off and on.
 - Scan: On WordPress.com, show Personal and Premium sites the vulnerability report and the Scan upgrade, since their plans don't include Scan.
+- Scan: Say when the last scan didn't complete, or the latest results couldn't load, on the Scan page and in Site Health, instead of reporting no threats.
+- Scan: Sort threats with no severity just above Low, and stop labeling them Low.
+- Scan: Stop showing a stray "0" when the scan status can't load.
 - Show Jetpack in-dashboard messages under the tabs, on every tab.
 - Show why connecting the site failed under the "Start for free" button.
 - Status: Detect a site served on any 127.0.0.0/8 loopback address, or on 0.0.0.0, as a local site.

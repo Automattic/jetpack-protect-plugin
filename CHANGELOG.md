@@ -111,6 +111,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Fix overlapping and misaligned stats on the Protect card.
 - My Jetpack: Fix the dashboard failing to load on WordPress.com-hosted sites.
 - My Jetpack: Fix the layout of the connection screen for right-to-left languages.
+- My Jetpack: Fix the Overview showing a product's old status after a feature is switched on or off on the Features tab.
 - My Jetpack: Hide other plugins' notices while the setup screen is open, and stop the full-screen layout breaking when another plugin adds an admin body class first.
 - My Jetpack: Keep the Automattic for Agencies banner hidden after dismissing it and switching tabs.
 - My Jetpack: Keep the Help tab's cards inside their column on narrow screens.

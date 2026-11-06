@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Connection: Add a Connected view to the Users page listing users with a linked WordPress.com account.
+- Connection: Note that moving a Jetpack plan is an additional step when transferring connection ownership, and link to the support doc on transferring a plan.
 - Connection: Show connection errors on the Connectors card, and keep showing the connection owner when their account connection breaks.
 - Connection: Surface SSL certificate verification failures reported by WordPress.com as a connection error notice.
 - Connection: Transfer connection ownership to another administrator without leaving your site.

@@ -146,6 +146,7 @@ This is an alpha version! The changes listed here are not final.
 - Show Jetpack in-dashboard messages under the tabs, on every tab.
 - Show why connecting the site failed under the "Start for free" button.
 - Status: Detect a site served on any 127.0.0.0/8 loopback address, or on 0.0.0.0, as a local site.
+- Update the admin bar threat count when threats are fixed, ignored, or a new scan finds none.
 
 ## 6.1.0 - 2026-08-12
 ### Added

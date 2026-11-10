@@ -52,6 +52,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Open the Jetpack Connection details on the Connectors screen from the header's Manage connection link.
 - My Jetpack: Refresh Pro availability while preserving existing offers.
 - My Jetpack: Restyle dashboard notices to match the WordPress design system.
+- My Jetpack: Return to the license screen after you connect your account from "Activate a license", and show the WordPress.com connection screen made for your site's plugins.
 - My Jetpack: Show a Features tab in place of the Products tab.
 - My Jetpack: Show product cards flat, without a drop shadow.
 - My Jetpack: Show the avatar and connection status control in the header by default, with access to connection and plan details.

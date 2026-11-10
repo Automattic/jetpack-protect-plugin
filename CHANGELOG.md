@@ -63,6 +63,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Stop asking to connect a WordPress.com account when nothing in use needs one.
 - My Jetpack: Turn a module on once Install Jetpack or Activate Jetpack on its card finishes setup.
 - Notices: Restyle to match the WordPress design system.
+- Replace the Protect dashboard with the new one shared with the Jetpack plugin, including Downtime Monitor and WordPress.com login settings. If those were on with a Jetpack plugin you have since removed, they stay off until you turn them on from the Protect page.
 - Scan: Say the vulnerability check is off, on the Scan page and in Site Health, instead of reporting no vulnerabilities when it is turned off in Jetpack.
 - Show the error when connecting from the pricing table fails in a notice above the table, so it no longer pushes the paid plan's button out of line.
 - Sidebar: sort Jetpack menu items alphabetically, pinning My Jetpack to the top and external links and Settings to the bottom.

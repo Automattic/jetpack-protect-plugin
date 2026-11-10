@@ -34,7 +34,7 @@ return array(
     ),
     'jetpack-connection' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-connection',
-      'ver' => '9.17.3-alpha1794326253',
+      'ver' => '9.18.0-alpha1794335634',
     ),
     'jetpack-explat' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-explat',
@@ -60,6 +60,10 @@ return array(
       'path' => 'jetpack_vendor/automattic/jetpack-menu-badges',
       'ver' => '0.2.3',
     ),
+    'jetpack-monitor' => array(
+      'path' => 'jetpack_vendor/automattic/jetpack-monitor',
+      'ver' => '0.1.0',
+    ),
     'jetpack-my-jetpack' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-my-jetpack',
       'ver' => '6.18.0-alpha1794326253',
@@ -75,6 +79,10 @@ return array(
     'jetpack-protect-models' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-protect-models',
       'ver' => '0.7.4',
+    ),
+    'jetpack-protect-pkg' => array(
+      'path' => 'jetpack_vendor/automattic/jetpack-protect',
+      'ver' => '0.7.0-alpha1794335634',
     ),
     'jetpack-protect-status' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-protect-status',

@@ -84,6 +84,7 @@ This is an alpha version! The changes listed here are not final.
 - Activity Log: Stop the frame from flashing while loading and when switching admin pages.
 - Admin bar: Match the threat count shield icon's size to the other toolbar icons.
 - Admin dashboards: Keep the page header and content in view when the wp-admin menu is taller than the window.
+- Brute Force Protection: Allow the feature to turn on when the configured trusted IP header is empty or holds no valid address.
 - Brute Force Protection: Fix correct logins being rejected after the math challenge, and keep the username and login destination when the password must be entered again.
 - Brute Force Protection: Let new users set their password from a blocked IP, and stop sending recovery emails to accounts that have not set one yet.
 - Charts: draw labels at the design system's font weight and size.

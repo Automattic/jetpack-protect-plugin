@@ -99,9 +99,11 @@ This is an alpha version! The changes listed here are not final.
 - Connection: Fix the connect button staying busy after the connection to WordPress.com fails to start.
 - Connection: Hide connection error notices from users who cannot fix the connection.
 - Connection: Keep the progress indicator on screen after clicking Restore Connection until the redirect to WordPress.com.
+- Connection: Let a second administrator fix a broken connection owner by connecting their own account, which makes them the new owner.
 - Connection: Let users without admin access reconnect their own broken account from the connection error notice.
 - Connection: Report a broken connection on My Jetpack's connection card instead of claiming everything looks good, and show a break only the connection owner can repair as a warning, not an error, to everyone else.
 - Connection: Show connection owner names containing characters like & correctly.
+- Connection: Stop showing a connection error notice for a request signature mismatch, which reconnecting rarely fixes.
 - Connection: Stop showing a duplicate account notice when your WordPress.com email differs from your site email only in letter case.
 - Connection: Stop Site Health from showing spurious connection failures — remove the redundant outbound HTTP/HTTPS checks, and no longer prompt a reconnect when the WordPress.com connection test is inconclusive.
 - Connection: Stop users who cannot set up the site connection from becoming the connection owner when the owner's connection is missing.

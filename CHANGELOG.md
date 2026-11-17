@@ -13,6 +13,9 @@ This is an alpha version! The changes listed here are not final.
 - Clarify the advice for a vulnerability whose report names no fixed version, and suggest contacting the developer about a suspected false positive.
 - Update dependencies.
 
+### Fixed
+- Safe Mode: Stop showing the Safe Mode screen to non-admins once an admin has chosen to stay in Safe Mode.
+
 ## 7.0.0 - 2026-11-16
 ### Added
 - Connection: Add a Connected view to the Users page listing users with a linked WordPress.com account. [#53150]

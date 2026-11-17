@@ -699,15 +699,15 @@ return array(
 		'path'    => $baseDir . '/src/class-credentials.php'
 	),
 	'Automattic\\Jetpack\\Protect\\Dashboard' => array(
-		'version' => '0.7.1.0-alpha1794937558',
+		'version' => '0.7.1.0-alpha1794937592',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-protect/src/class-dashboard.php'
 	),
 	'Automattic\\Jetpack\\Protect\\Dashboard_Section' => array(
-		'version' => '0.7.1.0-alpha1794937558',
+		'version' => '0.7.1.0-alpha1794937592',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-protect/src/interface-dashboard-section.php'
 	),
 	'Automattic\\Jetpack\\Protect\\Dashboard_Threats' => array(
-		'version' => '0.7.1.0-alpha1794937558',
+		'version' => '0.7.1.0-alpha1794937592',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-protect/src/class-dashboard-threats.php'
 	),
 	'Automattic\\Jetpack\\Protect\\Onboarding' => array(
@@ -715,7 +715,7 @@ return array(
 		'path'    => $baseDir . '/src/class-onboarding.php'
 	),
 	'Automattic\\Jetpack\\Protect\\Protected_Options' => array(
-		'version' => '0.7.1.0-alpha1794937558',
+		'version' => '0.7.1.0-alpha1794937592',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-protect/src/class-protected-options.php'
 	),
 	'Automattic\\Jetpack\\Protect\\REST_Controller' => array(
@@ -727,27 +727,27 @@ return array(
 		'path'    => $baseDir . '/src/class-scan-history.php'
 	),
 	'Automattic\\Jetpack\\Protect\\Sections\\Firewall' => array(
-		'version' => '0.7.1.0-alpha1794937558',
+		'version' => '0.7.1.0-alpha1794937592',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-protect/src/sections/class-firewall.php'
 	),
 	'Automattic\\Jetpack\\Protect\\Sections\\History' => array(
-		'version' => '0.7.1.0-alpha1794937558',
+		'version' => '0.7.1.0-alpha1794937592',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-protect/src/sections/class-history.php'
 	),
 	'Automattic\\Jetpack\\Protect\\Sections\\Login_Protection' => array(
-		'version' => '0.7.1.0-alpha1794937558',
+		'version' => '0.7.1.0-alpha1794937592',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-protect/src/sections/class-login-protection.php'
 	),
 	'Automattic\\Jetpack\\Protect\\Sections\\Monitor' => array(
-		'version' => '0.7.1.0-alpha1794937558',
+		'version' => '0.7.1.0-alpha1794937592',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-protect/src/sections/class-monitor.php'
 	),
 	'Automattic\\Jetpack\\Protect\\Sections\\Scan' => array(
-		'version' => '0.7.1.0-alpha1794937558',
+		'version' => '0.7.1.0-alpha1794937592',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-protect/src/sections/class-scan.php'
 	),
 	'Automattic\\Jetpack\\Protect\\Settings' => array(
-		'version' => '0.7.1.0-alpha1794937558',
+		'version' => '0.7.1.0-alpha1794937592',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-protect/src/class-settings.php'
 	),
 	'Automattic\\Jetpack\\Protect\\Site_Health' => array(
@@ -755,11 +755,11 @@ return array(
 		'path'    => $baseDir . '/src/class-site-health.php'
 	),
 	'Automattic\\Jetpack\\Protect\\Threat_Count' => array(
-		'version' => '0.7.1.0-alpha1794937558',
+		'version' => '0.7.1.0-alpha1794937592',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-protect/src/class-threat-count.php'
 	),
 	'Automattic\\Jetpack\\Protect\\Threat_File' => array(
-		'version' => '0.7.1.0-alpha1794937558',
+		'version' => '0.7.1.0-alpha1794937592',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-protect/src/class-threat-file.php'
 	),
 	'Automattic\\Jetpack\\Protect\\Threats' => array(

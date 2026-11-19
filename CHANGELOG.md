@@ -16,6 +16,7 @@ This is an alpha version! The changes listed here are not final.
 - Update the plugin description, FAQ and screenshots to cover the new dashboard and downtime monitoring.
 
 ### Fixed
+- My Jetpack: Fix the Learn more, Manage and Connect buttons on recommendation cards, which did nothing.
 - Safe Mode: Show the WordPress.com address correctly instead of reversed after Safe Mode checks the connection again.
 - Safe Mode: Stop showing the Safe Mode screen to non-admins once an admin has chosen to stay in Safe Mode.
 

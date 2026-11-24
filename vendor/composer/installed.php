@@ -20,9 +20,9 @@
             'dev_requirement' => false,
         ),
         'automattic/jetpack-account-protection' => array(
-            'pretty_version' => '0.4.3',
-            'version' => '0.4.3.0',
-            'reference' => '1625bb4f27f0203f29fae83c57734d177676486c',
+            'pretty_version' => '0.4.4-alpha.1795531497',
+            'version' => '0.4.4.0-alpha1795531497',
+            'reference' => 'de66a051a8dc9b2a6ffce274afea9c20112bf991',
             'type' => 'jetpack-library',
             'install_path' => __DIR__ . '/../../jetpack_vendor/automattic/jetpack-account-protection',
             'aliases' => array(),

@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Clarify the advice for a vulnerability whose report names no fixed version, and suggest contacting the developer about a suspected false positive.
+- My Jetpack: Call the header's connection panel and its button "Jetpack Connection", without repeating it in the button's name during a connection error.
 - My Jetpack: Remove the Features link from the footer, since the header already links to it.
 - Safe Mode: Show the Jetpack Safe Mode admin bar item while the choice is still pending, style it on the front end of the site too, and have it open My Jetpack from Jetpack pages that can't show the Safe Mode screen.
 - Update dependencies.

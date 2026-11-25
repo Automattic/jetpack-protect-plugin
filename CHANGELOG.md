@@ -17,6 +17,7 @@ This is an alpha version! The changes listed here are not final.
 - Update the plugin description, FAQ and screenshots to cover the new dashboard and downtime monitoring.
 
 ### Fixed
+- Connection: Keep a Safe Mode screen left open, for example in another tab, from disconnecting a site that is no longer in Safe Mode.
 - Dashboard: Center notifications at the bottom of the screen over the page content, not under the admin menu edge.
 - Hide the "Use license key" link where it can't be used, such as in Offline Mode.
 - My Jetpack: Don't install a product's plugin when plugin installs are turned off or the user can't install plugins.

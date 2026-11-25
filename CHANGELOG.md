@@ -23,6 +23,7 @@ This is an alpha version! The changes listed here are not final.
 - Hide the "Use license key" link where it can't be used, such as in Offline Mode.
 - My Jetpack: Don't install a product's plugin when plugin installs are turned off or the user can't install plugins.
 - My Jetpack: Fix the Learn more, Manage and Connect buttons on recommendation cards, which did nothing.
+- My Jetpack: Show the manual-install notice and disable the install buttons on product pricing pages when the site cannot install plugins.
 - My Jetpack: Show the same threat count on the Protect card as the Protect page, one per vulnerable plugin or theme.
 - Safe Mode: Show the WordPress.com address correctly instead of reversed after Safe Mode checks the connection again.
 - Safe Mode: Stop showing the Safe Mode screen to non-admins once an admin has chosen to stay in Safe Mode.

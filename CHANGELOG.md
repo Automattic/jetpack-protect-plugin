@@ -21,6 +21,7 @@ This is an alpha version! The changes listed here are not final.
 - Connection: Keep a Safe Mode screen left open, for example in another tab, from disconnecting a site that is no longer in Safe Mode.
 - Dashboard: Center notifications at the bottom of the screen over the page content, not under the admin menu edge.
 - Hide the "Use license key" link where it can't be used, such as in Offline Mode.
+- My Jetpack: Announce the same connection status on the header's account button as in its panel, and read that status first when the panel opens from the keyboard.
 - My Jetpack: Don't install a product's plugin when plugin installs are turned off or the user can't install plugins.
 - My Jetpack: Explain why a Jetpack Pro license can't be activated on a site.
 - My Jetpack: Fix the Learn more, Manage and Connect buttons on recommendation cards, which did nothing.

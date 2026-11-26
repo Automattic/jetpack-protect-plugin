@@ -22,6 +22,7 @@ This is an alpha version! The changes listed here are not final.
 - Dashboard: Center notifications at the bottom of the screen over the page content, not under the admin menu edge.
 - Hide the "Use license key" link where it can't be used, such as in Offline Mode.
 - My Jetpack: Don't install a product's plugin when plugin installs are turned off or the user can't install plugins.
+- My Jetpack: Explain why a Jetpack Pro license can't be activated on a site.
 - My Jetpack: Fix the Learn more, Manage and Connect buttons on recommendation cards, which did nothing.
 - My Jetpack: Show the manual-install notice and disable the install buttons on product pricing pages when the site cannot install plugins.
 - My Jetpack: Show the same threat count on the Protect card as the Protect page, one per vulnerable plugin or theme.

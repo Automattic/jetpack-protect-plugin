@@ -30,6 +30,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Match the Protect card's threat counts to the Protect page after the site fixes a threat, before the next scan.
 - My Jetpack: Show the manual-install notice and disable the install buttons on product pricing pages when the site cannot install plugins.
 - My Jetpack: Show the same threat count on the Protect card as the Protect page, one per vulnerable plugin or theme.
+- My Jetpack: Stop counting threats the site has fixed since the last scan in the "Scan found threats" notice and the Protect card, so they turn from an error to a warning once the critical ones are fixed, and go away once all are.
 - Safe Mode: Show the WordPress.com address correctly instead of reversed after Safe Mode checks the connection again.
 - Safe Mode: Stop showing the Safe Mode screen to non-admins once an admin has chosen to stay in Safe Mode.
 
